@@ -6,3 +6,5 @@ b. auf den Ehegatten oder die Ehegattin sowie auf den eingetragenen Partner oder
 bbis. auf den Lebenspartner oder die Lebenspartnerin, der oder die mit dem bisherigen Halter oder der bisherigen Halterin seit mindestens fünf Jahren ununterbrochen einen gemeinsamen Haushalt führt,
 c. bei Übernahme von Geschäftsfahrzeugen infolge Kauf, Umstrukturierung, Namensänderung eines Unternehmens und dergleichen, sofern der neue Halter oder die neue Halterin im Handelsregister eingetragen ist,
 d. bei Firmengründungen, wenn der Gründer oder die Gründerin das private Fahrzeug in die Firma einbringt und diese im Handelsregister eingetragen ist.
+7 Strassensignalisation
+7.1 Zuständigkeit

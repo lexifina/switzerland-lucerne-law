@@ -8,3 +8,4 @@ c. Verkehrssicherheit, wobei Schulhäuser, Kindergarten und dergleichen im betro
 d. Lärmimmissionen.
 4 Die zuständige Behörde prüft, ob die Massnahme auf bestimmte Tageszeiten zu beschränken ist.
 5 Zusammen mit der Verkehrsanordnung ist der ihr zugrundeliegende Beschluss der zuständigen Behörde mit Begründung und Bewertung der Kriterien zu veröffentlichen.
+7.2 Verfahren
