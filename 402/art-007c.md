@@ -1,0 +1,4 @@
+# § 7c Förderung regional bedeutender Kultur
+1 Die Gemeinden fördern regional bedeutende Kultur insbesondere durch die Ausrichtung von Beiträgen an Kulturschaffende und -vermittelnde auf Gesuch hin. Sie schliessen sich zu diesem Zweck zu regionalen Gemeindeverbänden zusammen.
+2 Der Regierungsrat bestimmt einen Mindestbeitrag, den die Gemeinden pro Kopf ihrer ständigen Wohnbevölkerung an diese Gemeindeverbände zur Förderung regional bedeutender Kultur leisten.
+3 Der Kanton leistet Beiträge an die Gemeindeverbände zur Förderung regional bedeutender Kultur gemäss § 4 Absatz 3. Der Kantonsbeitrag an die einzelnen Gemeindeverbände bemisst sich nach einem vom Regierungsrat festgelegten kantonalen Pro-Kopf-Beitrag multipliziert mit der ständigen Wohnbevölkerung der Gemeinden, die einem Gemeindeverband angeschlossen sind.
