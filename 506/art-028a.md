@@ -1,1 +1,3 @@
 # § 28a Übergangsbestimmung zur Änderung vom 21. April 2026
+1 Für Lernende, die am Ende des Schuljahres 2030/2031 die Maturitätsprüfung nach den bisherigen Bestimmungen erstmalig nicht bestanden haben, gilt für die Wiederholung das neue Recht.
+2 Können bei Lernenden aufgrund von Änderungen im Fächerangebot nicht in allen Maturitätsfächern Maturitätsnoten gebildet werden, entscheidet die Dienststelle Gymnasialbildung nach Vorgaben der Maturitätskommission im Einzelfall über mögliche Anrechnungen oder notwendige Ersatzleistungen. Sie kann dabei insbesondere Zeugnisnoten aus früheren Schuljahren als Maturitätsnoten übernehmen, den Prüfungsinhalt anpassen oder Ersatzprüfungen anordnen.
