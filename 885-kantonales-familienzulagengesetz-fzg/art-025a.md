@@ -1,0 +1,2 @@
+# § 25a Übergangsbestimmung zur Änderung vom 10. September 2012
+1 Die im Zeitpunkt des Inkrafttretens dieser Änderung vorhandenen Reserven aus der Auflösung der Familienausgleichskasse für Selbständigerwerbende werden an die Familienausgleichskassen gemäss § 6 Absatz 1 verteilt. Für die Verteilung massgebend sind die AHV-pflichtigen Lohnsummen im Jahr 2012. Die verteilten Reserven dürfen nur für die Finanzierung der Familienzulagen verwendet werden.
