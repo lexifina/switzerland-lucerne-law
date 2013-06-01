@@ -1,0 +1,2 @@
+# § 30a Urkunde über eine andere Leistung
+1 Zuständige Urkundsperson gemäss Artikel 350 Absatz 1 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 ist grundsätzlich die Urkundsperson, welche die Urkunde ausgefertigt hat und das Original aufbewahrt. Ist diese Urkundsperson abwesend, verhindert, nicht mehr tätig oder sprechen andere Gründe dagegen, kann die berechtigte Person den Antrag bei einer anderen Urkundsperson stellen.
