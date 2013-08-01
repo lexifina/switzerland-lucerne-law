@@ -1,0 +1,2 @@
+# § 20j Berichterstattung
+1 Die Berichterstattung über das Beitragscontrolling und die Erfüllung der Leistungsvereinbarungen erfolgt im Jahresbericht gemäss § 18.
