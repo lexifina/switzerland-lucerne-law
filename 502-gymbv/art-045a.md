@@ -1,0 +1,2 @@
+# § 45a Sicherheit beim Schwimmen und Baden
+1 Bei den Langzeit- und den Kurzzeitgymnasien muss das Schwimmen und Baden im schulischen Rahmen, insbesondere während des Schwimmunterrichts, auf Schulreisen, Ausflügen und Anlässen jeder Art, von mindestens einer erwachsenen Person überwacht werden, die über ein Brevet im Rettungsschwimmen der Schweizerischen Lebensrettungs-Gesellschaft (SLRG) verfügt, dessen letzte Erneuerung im Rahmen eines Weiterbildungskurses nicht mehr als vier Jahre zurückliegt.
