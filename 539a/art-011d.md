@@ -1,0 +1,2 @@
+# § 11d Ausserordentliche Zulagen
+1 Ausserordentliche Zulagen zur Gewinnung oder Erhaltung von Personen gemäss § 35 Absatz 2 des Personalgesetzes können ganz oder teilweise in Form von Einkaufsbeiträgen an die Luzerner Pensionskasse ausgerichtet werden. Diese sind auf insgesamt höchstens 100 000 Franken innert fünf Jahren pro Person beschränkt und werden maximal in der Höhe der eigenen Einkaufsbeiträge der betreffenden Person ausgerichtet.
