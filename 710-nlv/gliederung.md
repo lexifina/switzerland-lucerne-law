@@ -1,0 +1,9 @@
+## 1 Zuständigkeit
+## 2 Ersatzabgaben
+## 3 Beiträge
+### 3.1 Pflegebeiträge und Abgeltungen
+### 3.2 …
+### 3.3 …
+### 3.4 Allgemeine Beiträge
+## 4 …
+## 5 Schlussbestimmungen
