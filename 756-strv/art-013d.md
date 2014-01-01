@@ -1,0 +1,3 @@
+# § 13d Bauliche Massnahmen innerhalb von Nationalstrassenbaulinien
+1 Für das Verfahren zur Bewilligung von baulichen Massnahmen innerhalb der Nationalstrassenbaulinien finden die massgebenden kantonalen Vorschriften zur Bewilligung von Bauten und Anlagen im Planungs- und Baugesetz, im Strassengesetz, im Weggesetz oder im Wasserbaugesetz sinngemäss Anwendung.
+2 Bei widerrechtlichen baulichen Massnahmen innerhalb der Nationalstrassenbaulinien sorgt die Behörde, die dafür nach den in Absatz 1 angeführten Erlassen jeweils zuständig ist, nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege für die Wiederherstellung des rechtmässigen Zustandes.

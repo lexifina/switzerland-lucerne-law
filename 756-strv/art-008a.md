@@ -1,0 +1,4 @@
+# § 8a Beiträge aus Schwerverkehrsabgabe und Verkehrssteuer
+1 Die Anteile der Gemeinden aus der leistungsabhängigen Schwerverkehrsabgabe und aus der Verkehrssteuer nach § 83a Absatz 1b und d des Strassengesetzes werden zu drei Vierteln nach ihrer Einwohnerzahl und zu einem Viertel nach ihrer Fläche auf die Gemeinden aufgeteilt.
+2 Als Einwohnerzahl der Gemeinden gilt die mittlere Wohnbevölkerung gemäss kantonaler Statistik. Als Fläche der Gemeinden gilt die Fläche gemäss amtlicher Vermessung.
+3 Die Dienststelle Verkehr und Infrastruktur zahlt den Gemeinden ihre Anteile gestützt auf den von der zentralen Statistikstelle errechneten Teiler bis Ende März jenes Jahres aus, in dem der Bund dem Kanton den ihm zufallenden Anteil aus der leistungsabhängigen Schwerverkehrsabgabe des vorangehenden Rechnungsjahres zuweist.

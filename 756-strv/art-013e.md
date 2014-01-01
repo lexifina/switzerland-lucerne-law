@@ -1,0 +1,4 @@
+# § 13e Landerwerb
+1 Das für den Bau der Nationalstrassen erforderliche Land ist freihändig zu erwerben, soweit eine Einigung über angemessene Erwerbsbedingungen erzielt werden kann. Die Dienststelle Immobilien arbeitet die Landerwerbsverträge aus und legt diese der zuständigen Behörde zum Beschluss vor.
+2 Verfügt der Regierungsrat die Durchführung eines Landumlegungsverfahrens (Art. 36 des Bundesgesetzes über die Nationalstrassen), finden in Ergänzung zu den bundesrechtlichen Vorschriften die §§ 86 ff. des Planungs- und Baugesetzes zur Landumlegung sinngemäss Anwendung. Die Dienststelle Verkehr und Infrastruktur nimmt die im Planungs- und Baugesetz der Gemeinde übertragenen Aufgaben und Befugnisse wahr.
+3 Sofern das für den Bau der Nationalstrassen erforderliche Land weder freihändig noch im Landumlegungsverfahren erworben werden kann, ist es zu enteignen.
