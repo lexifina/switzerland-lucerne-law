@@ -1,0 +1,2 @@
+# § 5b Verbände
+1 Der Spitex Kantonalverband Luzern (SKL) und die Luzerner Altersheimleiterinnen und -leiter Konferenz (LAK Curaviva) werden ermächtigt, zur Förderung der Ausbildung von Pflegepersonal bei den Leistungserbringern der ambulanten Krankenpflege und jenen der Krankenpflege im Pflegeheim einen Ausbildungsbeitrag zu erheben und an diejenigen Leistungserbringer zu verteilen, die Pflegepersonal ausbilden.
