@@ -1,0 +1,3 @@
+# § 53g Datensicherheit
+1 Der Betreiber des kantonalen Krebsregisters trifft angemessene technische und organisatorische Massnahmen gegen den unbefugten Zugriff. Er erstellt ein Zugriffsreglement, das insbesondere regelt, welche Personen zu welchem Zweck und unter welchen Bedingungen Zugriff auf die nicht anonymisierten Personendaten haben. Personen, die nicht für das kantonale Krebsregister arbeiten, ist kein Zugriff zu gewähren.
+2 Mitarbeiterinnen und Mitarbeiter, die Zugriff auf die nicht anonymisierten Daten haben, unterstehen der Schweigepflicht und haben eine entsprechende Erklärung zu unterzeichnen.

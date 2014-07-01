@@ -1,0 +1,2 @@
+# § 53a Zweck
+1 Zur Erhöhung der Kenntnisse über Krebserkrankungen in der Bevölkerung führt der Kanton ein kantonales Krebsregister. Darin werden alle erforderlichen Daten über Krebserkrankungen, das heisst maligne und semi-maligne Tumoren, im Kanton Luzern systematisch erfasst, insbesondere alle Neuerkrankungen, die Stadien und Verläufe der Erkrankungen sowie Informationen über durchgeführte Therapien und die Lebensqualität.
