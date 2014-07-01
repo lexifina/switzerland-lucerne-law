@@ -1,0 +1,4 @@
+# § 29a Übergangsbestimmungen der Änderung vom 22. November 1999
+1 Die vor Inkrafttreten dieser Änderung erfolgten Handänderungen werden ohne Rücksicht auf den Zeitpunkt der Veranlagung nach dem bisherigen Recht besteuert. Stichtag ist der Tag der Anmeldung beim Grundbuch oder der Tag des jeweiligen Vertragsabschlusses, sofern kein Grundbucheintrag erfolgt. Für das Verfahren gelten die neuen Bestimmungen.
+2 Nachsteuern werden für Handänderungen, welche vor dem 1. Januar 2001 erfolgen, nach altem Recht festgesetzt. Für das Verfahren gilt neues Recht, ebenso für die Verjährung, wenn sie am 1. Januar 2001 nach altem Recht noch nicht eingetreten ist.
+3 Bussen nach § 14 werden für Handänderungen, die vor dem 1. Januar 2001 erfolgen, nach altem Recht ausgesprochen, sofern das neue Recht für die betroffene Person nicht milder ist. Für das Verfahren gilt neues Recht, ebenso für die Verjährung, wenn sie am 1. Januar 2001 noch nicht eingetreten ist.
