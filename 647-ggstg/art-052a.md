@@ -1,0 +1,5 @@
+# § 52a Übergangsbestimmung der Änderung vom 22. November 1999
+1 Die vor Inkrafttreten dieser Änderung erfolgten Veräusserungen werden ohne Rücksicht auf den Zeitpunkt der Veranlagung nach dem bisherigen Recht besteuert. Stichtag ist der Tag der Anmeldung beim Grundbuch oder der Tag des jeweiligen Vertragsabschlusses, sofern kein Grundbucheintrag erfolgt. Für das Verfahren gelten die neuen Bestimmungen.
+2 Bei Veräusserung von Grundstücken, die als Realersatz gemäss § 4 Absatz 1 Ziffer 4 in der vom 1. Januar 1975 bis 31. Dezember 2000 gültigen Fassung erworben wurden, ist der wieder angelegte Gewinn vom Anlagewert abzurechnen.
+3 Nachsteuern werden für Veräusserungen, welche vor dem 1. Januar 2001 erfolgen, nach altem Recht festgesetzt. Für das Verfahren gilt neues Recht, ebenso für die Verjährung, wenn sie am 1. Januar 2001 nach altem Recht noch nicht eingetreten ist.
+4 Bussen nach § 39 werden für Veräusserungen, die vor dem 1. Januar 2001 erfolgen, nach altem Recht ausgesprochen, wenn das neue Recht für die betroffene Person nicht milder ist. Für das Verfahren gilt neues Recht, ebenso für die Verjährung, wenn sie am 1. Januar 2001 noch nicht eingetreten ist.
