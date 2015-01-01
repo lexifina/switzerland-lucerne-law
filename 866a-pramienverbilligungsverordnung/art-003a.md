@@ -1,0 +1,2 @@
+# § 3a Einkäufe in die berufliche Vorsorge und Arbeitnehmeranteile der Beiträge von Selbständigerwerbenden
+1 Zum Nettoeinkommen im Sinn von § 7 Absatz 2 des Prämienverbilligungsgesetzes hinzugerechnet werden Einkäufe in die berufliche Vorsorge und die Arbeitnehmeranteile der Beiträge von Selbständigerwerbenden an die berufliche Vorsorge im Sinn von § 40 Absatz 1d des Steuergesetzes vom 22. November 1999, soweit sie 20 000 Franken pro Steuerjahr übersteigen.
