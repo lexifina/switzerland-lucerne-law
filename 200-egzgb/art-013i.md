@@ -1,0 +1,4 @@
+# § 13i Verlängerung bei zivilrechtlichem Verfahren
+1 Die gefährdete Person kann innert 20 Tagen nach Eröffnung der Verfügung der Polizei beim Zivilgericht um Anordnung von Schutzmassnahmen nach Artikel 28 ff., 175 ff. ZGB oder Artikel 276 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO) ersuchen. Mit dem Eingang des Gesuchs endet die Zuständigkeit des Zwangsmassnahmengerichtes.
+2 Die Wegweisung und das Betretungsverbot verlängern sich mit der Einreichung des Gesuches bis zum Entscheid des Zivilgerichts, längstens um zehn Tage. Sie fallen dahin, wenn das Zivilgericht zivilrechtliche Massnahmen rechtskräftig angeordnet hat.
+3 Das Zivilgericht teilt den Eingang des Gesuchs und seine Entscheidungen der Polizei, der Staatsanwaltschaft und soweit erforderlich dem Zwangsmassnahmengericht mit.
