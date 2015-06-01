@@ -1,0 +1,3 @@
+# § 82o Volksabstimmungen über Verfassungsentwurf
+1 Der vom Kantonsrat angenommene Entwurf der neuen Verfassung wird dem Volk unterbreitet. Er kann als Ganzes oder in Teilen, mit oder ohne Varianten zu einzelnen Bestimmungen, zur Abstimmung vorgelegt werden.
+2 Lehnt das Volk den Entwurf der neuen Verfassung oder Entwürfe von Teilen ab, legt der Regierungsrat dem Kantonsrat einen abgeänderten Verfassungsentwurf zur Beratung vor. Der vom Kantonsrat angenommene Entwurf wird dem Volk unterbreitet. Wird dieser Entwurf, der als Ganzes, mit oder ohne Varianten zu einzelnen Bestimmungen, zur Abstimmung vorzulegen ist, vom Volk erneut abgelehnt, ist die Totalrevision der Verfassung gescheitert.

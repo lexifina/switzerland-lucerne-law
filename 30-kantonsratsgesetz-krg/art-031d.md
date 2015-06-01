@@ -1,0 +1,2 @@
+# § 31d Besondere Auskunftspflichten
+1 Mitglieder des Kantonsrates, des Regierungsrates und des Kantonsgerichtes sowie Personen aus Verwaltung und Gerichten sind verpflichtet, der Untersuchungskommission über Wahrnehmungen bezüglich des Untersuchungsgegenstands, die sie in Ausübung ihres Dienstes gemacht haben und die ihre dienstlichen Obliegenheiten betreffen, wahrheitsgemäss Auskunft zu erteilen und allfällige Akten zu nennen, die den Gegenstand der Untersuchung betreffen.

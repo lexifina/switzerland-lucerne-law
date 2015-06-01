@@ -1,0 +1,8 @@
+# § 27a Prüftätigkeit der Aufsichts- und Kontrollkommission
+1 Die Aufsichts- und Kontrollkommission und ihre Ausschüsse verfügen über die Informationsrechte gemäss den §§ 25–27. Sie legen den Schwerpunkt ihrer Prüftätigkeit auf die Kontrolle der Rechtmässigkeit, der Zweckmässigkeit und der Wirksamkeit.
+2 Die Aufsichts- und Kontrollkommission kann für Abklärungen den Leiter oder die Leiterin und die Mitarbeiterinnen und Mitarbeiter der Finanzkontrolle oder aussenstehende Sachverständige beiziehen und Einsicht in die Berichte der Departements- und Gerichtscontroller nehmen.
+3 Ausnahmsweise hat die Kommission die Befugnis, im Rahmen ihres Auftrags
+a. ohne vorgängige Anhörung des zuständigen Departementsvorstehers oder der zuständigen Departementsvorsteherin Angestellte der Verwaltung und Mitglieder von Leitungsorganen der rechtlich selbständigen Organisationen, denen gemäss § 45 des Organisationsgesetzes kantonale Aufgaben übertragen sind, zu befragen und Besichtigungen in der Verwaltung vorzunehmen,
+b. ohne Beisein des zuständigen Departementsvorstehers oder der zuständigen Departementsvorsteherin Angestellte der Verwaltung und Mitglieder der Leitungsorgane von Organisationen, denen kantonale Aufgaben übertragen sind, zu befragen.
+Die Ausschüsse verfügen über diese Befugnis nur nach Entscheid der Kommission.
+4 Im Rahmen ihres Auftrags können die Aufsichts- und Kontrollkommission oder ihre Ausschüsse überdies Befragungen und Besichtigungen im Kantonsgericht und bei den Gerichten und Behörden, die dem Kantonsgericht unterstellt sind, durchführen. Die Absätze 1–3 gelten sinngemäss.
