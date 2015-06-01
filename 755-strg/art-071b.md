@@ -1,0 +1,6 @@
+# § 71b Projektbewilligung
+1 Die Gemeinde entscheidet nach Ablauf der Einsprachefrist ohne Verzug über das Strassenprojekt und die dagegen gerichteten öffentlich-rechtlichen Einsprachen, sobald die Stellungnahmen der interessierten kantonalen Stellen vorliegen oder die dafür gesetzte Frist unbenützt verstrichen ist.
+2 Ist die Projektbewilligung mit weiteren Bewilligungen oder Verfügungen zu koordinieren, gelten die Bestimmungen der §§ 192a und 196 des Planungs- und Baugesetzes. Wenn keine Baubewilligung erforderlich ist, entscheidet als kantonale Behörde
+a. der Regierungsrat, wenn in der gleichen Sache auch ein Entscheid des Regierungsrates erforderlich ist, sonst
+b. die vom Regierungsrat in der Verordnung bezeichnete Behörde.
+3 Der Regierungsrat oder die Behörde nach Absatz 2b erlässt in einem Entscheid alle erforderlichen, mit der Projektbewilligung zu koordinierenden Bewilligungen und Verfügungen kantonaler Behörden und sorgt für die inhaltliche Abstimmung der notwendigen Auflagen und Bedingungen.
