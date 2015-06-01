@@ -1,0 +1,2 @@
+# § 34a Pfandrecht
+1 Für die Abgaben und Gebühren gemäss den §§ 31 ff. besteht an den betreffenden Grundstücken ein den übrigen Pfandrechten im Rang vorgehendes gesetzliches Pfandrecht ohne Eintrag im Grundbuch, und zwar für die Baukostenbeiträge für die Dauer von zehn Jahren und für jährlich wiederkehrende Gebühren für die Dauer von zwei Jahren sowie für die Kosten von Zwangsmassnahmen nach Artikel 53 des eidgenössischen Gewässerschutzgesetzes für die Dauer von zwei Jahren je seit Fälligkeit.
