@@ -1,0 +1,3 @@
+# § 61b b. Pflichten des Auftragnehmers
+1 Dem Auftragnehmer einschliesslich dessen Mitarbeitenden und Hilfspersonen sind die Amts-, Berufs- und besonderen Geheimhaltungspflichten sowie die Pflichten zum Datenschutz und zur Informatiksicherheit zu übertragen, an welche die Dienststelle Personal gebunden ist.
+2 Die Dienststelle Personal hat dafür zu sorgen, dass ihr und den von ihr beauftragten Personen, dem Beauftragten für den Datenschutz sowie der Finanzkontrolle Zutritt zu den Räumen und Anlagen, die erforderlichen Zugriffsrechte auf die entsprechenden Daten sowie eine angemessene Unterstützung gewährt werden.
