@@ -1,0 +1,2 @@
+# § 12a Festsetzung der Besoldung per 1. August 2012
+1 Für diejenigen Lehrpersonen in einem unbefristeten Arbeitsverhältnis, die aufgrund der Rechtsänderung per 1. August 2012 in eine neue Lohnklasse eingereiht werden, wird die Lohnstufe neu festgelegt. Diese Lehrpersonen erhalten per 1. August 2012 bei gleichem Beschäftigungsgrad mindestens den Lohn, der ihrer Besoldungseinreihung des Monats Juli 2012 entspricht.

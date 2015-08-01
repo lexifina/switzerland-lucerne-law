@@ -1,0 +1,2 @@
+# § 12b Festsetzung der Besoldung per 1. August 2015
+1 Diejenigen Lehrpersonen in einem unbefristeten Arbeitsverhältnis, die aufgrund der Rechtsänderung per 1. August 2015 in eine tiefere Lohnklasse eingereiht werden, erhalten bei gleichem Beschäftigungsgrad mindestens den Lohn, der ihrer Besoldungseinreihung des Monats Juli 2015 entspricht. Eine Änderung der individuellen Unterrichtsverpflichtung bleibt vorbehalten.
