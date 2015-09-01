@@ -1,0 +1,4 @@
+# § 98c Verteilung der Sitze auf die Wahlkreise a. Grundsatz
+1 Ist ermittelt, wie viele Sitze die Listen oder Listengruppen im Wahlkreisverbund erhalten haben, sind diese auf die Wahlkreise zu verteilen.
+2 Zu diesem Zweck wird die Wählerzahl der Listen oder Listengruppen der einzelnen Wahlkreise durch die Zahl der gemäss § 98b zugewiesenen Sitze geteilt. Die nächsthöhere ganze Zahl ergibt die Verteilungszahl. Jede Liste oder Listengruppe erhält so viele Sitze, als die Verteilungszahl in der Wählerzahl enthalten ist.
+3 Restliche Sitze entfallen auf die Listen oder Listengruppen mit den grössten Restzahlen im Wahlkreisverbund. Sind die Restzahlen gleich, hat die Liste oder Listengruppe den Vorrang, bei welcher der jeweils in Betracht fallende Kandidat die grösste Stimmenzahl in einem Wahlkreis aufweist. Bei gleichen Stimmenzahlen entscheidet das Los.

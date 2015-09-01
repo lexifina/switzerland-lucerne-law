@@ -1,0 +1,4 @@
+# § 83b Aufgaben des Justiz- und Sicherheitsdepartementes
+1 Die Aufgaben, die dieses Gesetz und das Bundesgesetz über die Auslandschweizer den Gemeinden übertragen, werden vom Justiz- und Sicherheitsdepartement wahrgenommen, wenn es um das Stimmrecht der Auslandschweizer geht.
+2 Die Gemeinden melden die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizer dem Justiz- und Sicherheitsdepartement und leiten die bei ihnen eingehenden Meldungen der schweizerischen Vertretung und der Bundeskanzlei unverzüglich dem Justiz- und Sicherheitsdepartement zur Bearbeitung weiter.
+3 Das Justiz- und Sicherheitsdepartement führt insbesondere das Stimmregister für die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizer und verschickt das Stimm- und Wahlmaterial spätestens drei Wochen vor dem jeweiligen Abstimmungstag direkt an ihre Adresse.

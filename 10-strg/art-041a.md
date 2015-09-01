@@ -1,0 +1,2 @@
+# § 41a Fristen und Termine
+1 Um einen gemeinsamen Versand der eidgenössischen, der kantonalen und der kommunalen Abstimmungsunterlagen sicherzustellen, kann der Regierungsrat durch Verordnung von den in diesem Gesetz festgelegten Fristen und Terminen für die Veröffentlichung der Wahl- und Abstimmungsanordnungen, für die Einreichung der Wahlvorschläge und für die Zustellung der Abstimmungsunterlagen abweichen.
