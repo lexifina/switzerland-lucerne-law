@@ -1,0 +1,2 @@
+# § 12a Biometrische erkennungsdienstliche Daten und DNA-Profile
+1 Die Staatsanwaltschaft ist die zentrale kantonale Stelle für die Meldung des Eintretens der gesetzlichen Voraussetzungen für die Löschung der Daten von Personen und von Spuren gemäss Artikel 22 der Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten vom 6. Dezember 2013 und für die Löschung von Profilen gemäss Artikel 12 der DNA-Profil-Verordnung vom 3. Dezember 2004 an den Bund.
