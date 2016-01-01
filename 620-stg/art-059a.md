@@ -1,0 +1,8 @@
+# § 59a Vereinfachtes Abrechnungsverfahren
+1 Für kleine Arbeitsentgelte aus unselbständiger Erwerbstätigkeit ist die Steuer ohne Berücksichtigung der übrigen Einkünfte, allfälliger Berufskosten und Sozialabzüge zu einem Satz von 4,5 Prozent zu erheben. Voraussetzung ist, dass die Arbeitgeberinnen und Arbeitgeber die Steuer im Rahmen des vereinfachten Abrechnungsverfahrens nach den Artikeln 2 und 3 des Bundesgesetzes gegen die Schwarzarbeit vom 17. Juni 2005 entrichten. Damit sind die Einkommenssteuern von Kanton und Gemeinde abgegolten.
+2 Die Bestimmungen von § 114 Absätze 1a sowie 2–4 gelten sinngemäss.
+3 Die Steuern sind periodisch der zuständigen AHV-Ausgleichskasse abzuliefern. Diese stellt den Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug aus. Sie überweist der zuständigen Steuerbehörde die einkassierten Steuerzahlungen.
+4 Sind Arbeitnehmerinnen und Arbeitnehmer nicht im Kanton steuerpflichtig, überweist die Dienststelle Steuern des Kantons die eingegangenen Steuerbeträge der Steuerbehörde des Kantons, in welchem diese steuerpflichtig sind.
+5 Hat die zuständige Ausgleichskasse ihren Sitz nicht im Kanton, sind jedoch die Arbeitnehmerinnen und Arbeitnehmer im Kanton steuerpflichtig, erstattet ihnen die Dienststelle Steuern des Kantons zu viel bezogene Steuern zurück oder fordert von ihnen zu wenig bezogene Steuern nach.
+6 Vorbehalten bleibt die direkte Abrechnung zwischen der zuständigen AHV-Ausgleichskasse und der Steuerbehörde des Wohnsitzkantons.
+7 Der Regierungsrat ist befugt, zur Schaffung eines einheitlichen Steuersatzes in der Schweiz einen von Absatz 1 abweichenden Steuersatz festzulegen.
