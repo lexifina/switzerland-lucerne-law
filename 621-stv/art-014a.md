@@ -1,0 +1,2 @@
+# § 14a Teilung des Versicherungsabzugs für Kinder, des Kinderabzugs und des Steuerfreibetrages für Kinder
+1 Bei getrennter Besteuerung der Eltern werden der Versicherungsabzug für Kinder nach § 40 Absatz 1g StG, der Kinderabzug nach § 42 Absatz 1a StG und der steuerfreie Betrag nach § 52 Absatz 1c StG hälftig geteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 40 Absatz 1c StG für das Kind geltend gemacht werden.
