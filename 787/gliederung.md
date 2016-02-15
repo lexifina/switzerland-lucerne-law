@@ -8,4 +8,5 @@
 ### 2.1 Vierwaldstättersee
 ### 2.2 Sempachersee
 ### 2.3 Hallwilersee
+### 2.4 Zugersee
 ## 3 Schlussbestimmungen
