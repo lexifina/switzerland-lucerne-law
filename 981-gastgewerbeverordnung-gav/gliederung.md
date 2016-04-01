@@ -1,4 +1,4 @@
-## 1 Zuständigkeit
+## 1 Allgemeine Bestimmungen
 ## 2 Nachweis gastgewerblicher Kenntnisse und staatliche Prüfung
 ## 3 Räumlich-technische Vorschriften
 ## 4 Wirtschaftspolizeiliche Bestimmungen
