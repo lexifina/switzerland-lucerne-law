@@ -1,0 +1,2 @@
+# § 12c Festsetzung der Besoldung per 1. August 2016
+1 Für diejenigen Lehrpersonen in einem unbefristeten Arbeitsverhältnis, die aufgrund der Rechtsänderung per 1. August 2016 in eine neue Lohnklasse eingereiht werden, wird die Lohnstufe neu festgelegt. Diese Lehrpersonen erhalten per 1. August 2016 bei gleichem Beschäftigungsgrad mindestens den Lohn, der ihrer Besoldungseinreihung des Monats Juli 2016 entspricht.
