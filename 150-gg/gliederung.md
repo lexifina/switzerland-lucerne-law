@@ -6,7 +6,7 @@
 #### 2.2.2 Gemeinde ohne Gemeindeparlament
 #### 2.2.3 Gemeinde mit Gemeindeparlament
 ### 2.3 Gemeinderat
-### 2.4 Schulpflege
+### 2.4 Bildungskommission
 ### 2.5 Kontroll- und Steuerungsinstanzen
 #### 2.5.1 Rechnungsprüfungsorgan
 #### 2.5.2 Controlling-Kommission
