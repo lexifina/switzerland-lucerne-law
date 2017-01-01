@@ -1,6 +1,5 @@
-## 1 Zweck und Geltungsbereich
-## 2 Allgemeine Bestimmungen
-## 3 Sicherheitsanforderungen
-## 4 Kontrolle
-## 4a Überprüfung des Vollzugs
-## 5 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Sicherheitsanforderungen
+## 3 Nutzung und Missbrauch von Informatikmitteln
+## 4 Überwachung und Kontrollen
+## 5 Überprüfung des Vollzugs
