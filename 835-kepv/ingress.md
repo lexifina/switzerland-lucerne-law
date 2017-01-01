@@ -1,6 +1,7 @@
-# Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz) und zum Bundesgesetz betreffend Massnahmen gegen die Tuberkulose (Tuberkulosegesetz)
-vom 25.06.1993
+# Kantonale Epidemienverordnung
+(KEpV)
+vom 22.11.2016
 Der Regierungsrat des Kantons Luzern,
-gestützt auf Artikel 11 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz) vom 18. Dezember 1970, Artikel 1 des Bundesgesetzes betreffend Massnahmen gegen die Tuberkulose (Tuberkulosegesetz) vom 13. Juni 1928 und § 59 des Gesetzes über das Gesundheitswesen vom 29. Juni 1981,
-auf Antrag des Gesundheitsdepartementes,
+gestützt auf Artikel 75 des Epidemiengesetzes vom 28. September 2012, Artikel 102 Absätze 1 und 3 der Epidemienverordnung vom 29. April 2015 und § 1 Absatz 2 des Organisationsgesetzes vom 13. März 1995,
+auf Antrag des Gesundheits- und Sozialdepartementes,
 beschliesst:
