@@ -7,7 +7,7 @@
 #### 2.2.3 Invalidenleistungen
 ### 2.3 Austrittsleistungen
 #### 2.3.1 Freizügigkeitsleistungen
-#### 2.3.2 Freizügigkeitsähnliche Leistungen
+#### 2.3.2 Freizügigkeitsähnliche Leistungen und Vorsorgeausgleich bei Scheidung
 ## 3 Finanzierung
 ## 4 Organisation
 ### 4.1 Vorstand
