@@ -2,4 +2,4 @@
 1 Bei Veranstaltungen, bei denen Gewalt an Personen oder Sachen verübt wurde, können dem Veranstalter und den an der Gewaltausübung beteiligten Personen zusätzlich zum Kostenersatz nach § 32a die Kosten des Polizeieinsatzes ab Beginn der Gewaltausübung in Rechnung gestellt werden.
 2 Die Kosten des Polizeieinsatzes ab Beginn der Gewaltausübung werden zu höchstens 40 Prozent auf den Veranstalter und zu 60 Prozent auf die an der Gewaltausübung beteiligten Personen aufgeteilt.
 3 Der Veranstalter wird nur kostenpflichtig, wenn er nicht über die erforderliche Bewilligung verfügt oder Bewilligungsauflagen vorsätzlich oder grobfahrlässig nicht eingehalten hat. Je nach Einhaltung der Bewilligungsauflagen ist der vom Veranstalter zu tragende Anteil zu reduzieren. Dem Veranstalter können höchstens 30 000 Franken in Rechnung gestellt werden.
-4 Der Anteil, der von den an der Gewaltausübung beteiligten Personen zu tragen ist, wird zu gleichen Teilen auf die einzelnen Personen aufgeteilt. Einer einzelnen Person können höchstens 30 000 Franken in Rechnung gestellt werden.
+4 …
