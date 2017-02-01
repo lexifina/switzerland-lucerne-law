@@ -1,0 +1,2 @@
+# § 1b Meldepflicht
+1 Der Bewilligungsinhaber oder die Bewilligungsinhaberin hat der Dienststelle Soziales und Gesellschaft bevorstehende wesentliche Änderungen in der Organisation oder an den Gebäulichkeiten und Einrichtungen rechtzeitig zu melden. Dies gilt insbesondere für eine allfällige Erweiterung, Verlegung oder Einstellung des Betriebs sowie für den Wechsel der für die Leitung verantwortlichen Person.
