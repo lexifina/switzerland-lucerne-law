@@ -16,7 +16,7 @@
 ### 4.2 Spitäler
 #### 4.2.1 Kantonale Spitäler
 #### 4.2.2 Obduktion und Organentnahme
-### 4.3 Organisationen der Krankenpflege und der Hilfe zu Hause
+### 4.3 …
 ## 5 Prävention und Gesundheitsförderung
 ## 6 Kantonales Krebsregister und E-Health-Modellversuche
 ### 6.1 Krebsregister

@@ -1,0 +1,4 @@
+# § 19a Übergangsbestimmung der Änderung vom 7. November 2016
+1 Nach bisherigem Recht erteilte Bewilligungen der Gemeinden für Einrichtungen, die gewerbsmässig bis zu drei Betagten, Personen mit Behinderungen oder Betreuungsbedürftigen Unterkunft, Betreuung und Pflege gewähren, erlöschen nach Ablauf eines Jahres seit Inkrafttreten der Änderung dieses Gesetzes vom 7. November 2016. Für die Weiterführung des Betriebs hat dessen Inhaber oder Inhaberin bei der zuständigen kantonalen Behörde eine neue Bewilligung zu beantragen.
+2 Pflegeheime der Gemeinden, die neu der Bewilligungspflicht nach § 1a unterstehen, müssen innert fünf Jahren seit Inkrafttreten der Änderung dieses Gesetzes vom 7. November 2016 über die erforderliche Bewilligung verfügen.
+3 Pflegeheime müssen bis spätestens drei Jahre nach Inkrafttreten der Änderung dieses Gesetzes vom 7. November 2016 über die vom Regierungsrat bestimmte einheitliche Kostenrechnung verfügen.

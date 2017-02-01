@@ -1,0 +1,3 @@
+# § 3b Einsichtsrecht und Herausgabepflicht
+1 Die Gemeinden und die zuständige kantonale Behörde können für die Beurteilung der Wirtschaftlichkeit, für Betriebsvergleiche, für die Pflegeheimplanung, für die Bestimmung des Restfinanzierungsbeitrages und für die Förderung der Ausbildung die Kostenrechnung, die Leistungsstatistik und die Jahresrechnung (Bilanz und Erfolgsrechnung) der Leistungserbringer einsehen. Die Leistungserbringer haben die Unterlagen auf Verlangen herauszugeben.
+2 Das Einsichtsrecht steht auch allfälligen Dritten zu, die von den Gemeinden und der zuständigen kantonalen Behörde mit der Beurteilung der Wirtschaftlichkeit und mit Betriebsvergleichen beauftragt worden sind.

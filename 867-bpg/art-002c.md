@@ -1,0 +1,4 @@
+# § 2c Pflegeheimliste
+1 Der Regierungsrat erlässt gestützt auf die Pflegeheimplanung die Pflegeheimliste. Darin aufgeführt sind die Einrichtungen, die notwendig sind, um das in der Planung für die Gewährleistung der Versorgung bestimmte Angebot an Krankenpflege im Pflegeheim sicherzustellen.
+2 In die Pflegeheimliste aufgenommen werden nur Einrichtungen, die ein bedarfsgerechtes Angebot erbringen, den Nachweis über die Erfüllung der Anforderungen von Artikel 39 Absatz 1a–c KVG erbringen und über eine Betriebsbewilligung gemäss den §§ 1a ff. verfügen. Das Erfordernis der Bewilligung entfällt für Einrichtungen, die bereits nach dem Gesetz über soziale Einrichtungen anerkannt sind.
+3 Der Regierungsrat hört vor einer Anpassung der Pflegeheimliste die betroffenen Gemeinden in geeigneter Weise an.
