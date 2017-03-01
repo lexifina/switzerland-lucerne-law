@@ -5,4 +5,5 @@
 ## 5 Versicherte Gefahren
 ## 6 Versicherungsleistungen
 ## 7 Verfahren im Schadenfall
-## 8 Schlussbestimmungen
+## 8 Prävention
+## 9 Schlussbestimmungen
