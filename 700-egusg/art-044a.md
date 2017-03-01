@@ -1,0 +1,3 @@
+# § 44a Abgabe für Deponien und Materialentnahmestellen
+1 Für die Ablagerung von Abfällen auf Deponien entrichten die Inhaberinnen und Inhaber einer Deponie dem Kanton eine Abgabe von maximal 1 Franken pro Tonne Material. Für die Ablagerung von unverschmutztem Aushub- und Ausbruchmaterial entrichten die Inhaberinnen und Inhaber einer Deponie oder einer Materialentnahmestelle dem Kanton eine Abgabe von maximal 50 Rappen pro Tonne Material.
+2 Der Regierungsrat regelt das Nähere, insbesondere die Höhe der Abgaben, in der Verordnung und berücksichtigt dabei die Marktgegebenheiten für das Ablagern von Abfällen sowie von unverschmutztem Aushub- und Ausbruchmaterial.
