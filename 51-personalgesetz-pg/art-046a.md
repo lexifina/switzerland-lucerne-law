@@ -1,0 +1,4 @@
+# § 46a Meldungen und Anzeigen
+1 Bezeichnet das Gemeinwesen eine besondere Stelle, haben die Angestellten das Recht, dieser bei hinreichendem Verdacht Missstände, wie Verstösse gegen Gesetze oder Verordnungen, oder andere Unregelmässigkeiten sowie Mängel und Risiken zu melden, die sie in Ausübung ihrer Tätigkeit festgestellt haben.
+2 Die Angestellten haben das Recht zur Strafanzeige bei den Strafverfolgungsbehörden, wenn sie bei ihrer Tätigkeit von einem Vergehen oder Verbrechen Kenntnis erhalten haben, das sie aufgrund hinreichender Verdachtsgründe einem oder einer anderen Angestellten zuschreiben und das nach den Bestimmungen des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 von Amtes wegen zu verfolgen ist.
+3 Angestellte, die Meldung oder Anzeige gemäss den Absätzen 1 und 2 erstatten, dürfen im Arbeitsverhältnis weder direkt noch indirekt benachteiligt werden.
