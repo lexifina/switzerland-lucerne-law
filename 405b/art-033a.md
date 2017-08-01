@@ -1,0 +1,2 @@
+# § 33a Übergangsbestimmung der Änderung vom 23. August 2016
+1 Die Lernenden der 6. Primarklasse und der Sekundarschule im Schuljahr 2017/2018 beenden die Übertrittsverfahren bis zur Beendigung der Volksschule gemäss den Bestimmungen der Verordnung über die Beurteilung der Lernenden in der Volksschule vom 15. Mai 2007 in der Fassung vom 1. August 2012 und der Verordnung über die Übertrittsverfahren vom 15. Mai 2007 in der Fassung vom 1. August 2012.
