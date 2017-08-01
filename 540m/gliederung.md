@@ -1,8 +1,7 @@
-## 1 Allgemeine Bestimmungen
+## 1 Allgemeines
 ## 2 Zulassung
-## 3 Module, Dauer und Sprache des Studiengangs
-## 4 Leistungsnachweise, Zertifikat und Teilnahmebescheinigung
-## 5 Qualitätssicherung
-## 6 Kursleiterinnen/Kursleiter und Dozierende
-## 7 Finanzen
-## 8 Schlussbestimmungen
+## 3 Lehrgang
+## 4 Leistungsnachweise
+## 5 Kosten des Lehrgangs
+## 6 Sonstiges
+## 7 Schlussbestimmungen
