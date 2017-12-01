@@ -1,0 +1,2 @@
+# § 53b Schuldenbremsen beim Voranschlag 2018
+1 Zur Konsolidierung des Finanzhaushaltes des Kantons Luzern darf in Abweichung von § 7a Absatz 2 dieses Gesetzes im Voranschlag 2018 in der Erfolgsrechnung einmalig ein Aufwandüberschuss von höchstens 7 Prozent des Bruttoertrages einer Einheit der Staatssteuern vorgesehen werden. Die übrigen Bestimmungen dieses Gesetzes zu den Schuldenbremsen und deren Auswirkungen gelten unverändert.
