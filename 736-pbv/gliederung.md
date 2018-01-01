@@ -8,6 +8,7 @@
 #### 1.4.3 Grünflächenziffer
 ## 2 Erschliessung
 ## 3 Landumlegung
+## 3a Planungsvorteile
 ## 4 Bauvorschriften
 ### 4.1 Abstände
 ### 4.2 Höhenmasse
