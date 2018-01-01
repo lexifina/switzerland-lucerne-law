@@ -21,9 +21,9 @@
 ## 3 Landumlegung und Grenzregulierung
 ### 3.1 Landumlegung
 ### 3.2 Grenzregulierung
-## 4 Übernahmepflicht, Entschädigungen und Beiträge
-### 4.1 Übernahmepflicht
-### 4.2 Entschädigungen
+## 4 Planungsvorteile und -nachteile und Beiträge
+### 4.1 Planungsvorteile
+### 4.2 Planungsnachteile
 ### 4.3 Beiträge
 ## 5 Bauvorschriften
 ### 5.1 Allgemeine Bestimmungen

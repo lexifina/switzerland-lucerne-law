@@ -1,0 +1,2 @@
+# § 105f Gesetzliches Pfandrecht
+1 Zur Sicherung der Forderungen und Verzugszinsen aus der Erhebung der Mehrwertabgabe besteht zugunsten des Kantons und der Gemeinden je ein den übrigen Pfandrechten im Rang vorgehendes gesetzliches Pfandrecht, und zwar für die Dauer von zwei Jahren seit Fälligkeit. Unter Vorbehalt von Artikel 836 Absatz 2 des Schweizerischen Zivilgesetzbuches (ZGB) ist kein Eintrag im Grundbuch erforderlich.

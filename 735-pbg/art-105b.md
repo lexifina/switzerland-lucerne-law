@@ -1,0 +1,4 @@
+# § 105b Höhe und Bemessung der Mehrwertabgabe
+1 Die Höhe der Mehrwertabgabe beträgt bei Einzonungen, bei Um- und Aufzonungen in Gebieten mit Bebauungs- oder Gestaltungsplanpflicht sowie bei Erlass oder Änderung eines Bebauungsplanes 20 Prozent des Mehrwerts.
+2 Der Mehrwert entspricht der Differenz zwischen dem Verkehrswert des Landes mit und ohne Planänderung. Er ist mit anerkannten Methoden zu bestimmen.
+3 Der bei einer Einzonung errechnete Mehrwert ist um den Betrag zu kürzen, der innert zwei Jahren seit Rechtskraft der Einzonung zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung im Sinn von Artikel 5 Absatz 1quater des Bundesgesetzes über die Raumplanung verwendet wird. Die Dauer des Baubewilligungs- und eines allfälligen Beschwerdeverfahrens oder eines Zivilverfahrens ist nicht mitzurechnen.
