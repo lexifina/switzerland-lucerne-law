@@ -14,7 +14,7 @@
 ## 7 Umweltgefährdende Stoffe
 ## 8 Schutz vor Schädigungen durch ausserordentliche Ereignisse
 ### 8.1 Vorsorge, allgemeine Aufgaben
-### 8.2 Öl-, Chemie- und Strahlenwehr
+### 8.2 ABC-Wehren (Strahlen-, Bio-, Chemie- und Ölwehr)
 ## 9 Umweltverträglichkeitsprüfung
 ## 10 Bearbeitungszeit
 ## 11 Übergangs- und Schlussbestimmungen
