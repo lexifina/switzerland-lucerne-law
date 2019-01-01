@@ -1,0 +1,9 @@
+# § 11e Bewirtschaftung des Gewässerraums
+1 Die zulässige Bewirtschaftung des Gewässerraums richtet sich nach den Bestimmungen von Artikel 41c GSchV.
+2 Im inneren Korridor des Gewässerraums grosser Fliessgewässer ist einzig eine extensive Bewirtschaftung gemäss den Bestimmungen von Artikel 41c Absätze 3 und 4 GSchV zulässig. In den beiden äusseren Korridoren kann die zuständige Behörde Ausnahmen von den Vorgaben der extensiven Bewirtschaftung gemäss Artikel 41c Absätze 3 und 4 GSchV bewilligen, wenn gewährleistet ist, dass keine Dünger oder Pflanzenschutzmittel ins Gewässer gelangen können, und keine überwiegenden Interessen insbesondere des Natur- und Landschaftsschutzes entgegenstehen.
+3 Die Ausnahmebewilligung für die äusseren Korridore kann von der zuständigen Behörde entzogen oder angepasst werden, wenn
+a. sich die Gerinnesohlenbreite insbesondere infolge Hochwassers, Erosion oder eines Wasserbau- oder Revitalisierungsprojektes geändert hat,
+b. nicht mehr gewährleistet ist, dass weder Dünger noch Pflanzenschutzmittel ins Gewässer gelangen können,
+c. andere wichtige Gründe vorliegen.
+4 Zuständig für die Erteilung, den Entzug und die Anpassung von Ausnahmebewilligungen gemäss Absatz 2 und für die Bewilligung von Ausnahmen gemäss Artikel 41c Absatz 4bis GSchV ist die Dienststelle Umwelt und Energie. Sind die Bewilligungen zusammen mit der Genehmigung einer Nutzungsplanung oder der Bewilligung eines Wasserbauprojekts zu erteilen, zu entziehen oder anzupassen, ist der Regierungsrat zuständig.
+5 Erwächst die Festlegung des Gewässerraums in der Nutzungsplanung zwischen dem 1. Januar und dem 31. Juli eines Jahres in Rechtskraft, sind die Vorgaben zur Bewirtschaftung ab dem 1. Mai des nächsten Jahres einzuhalten. Tritt die Rechtskraft zwischen dem 1. August und dem 31. Dezember eines Jahres ein, sind die Vorgaben ab dem 1. Mai des übernächsten Jahres einzuhalten.

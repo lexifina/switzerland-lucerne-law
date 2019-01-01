@@ -1,0 +1,3 @@
+# § 11bbis Gewässerraum bei grossen Fliessgewässern
+1 Ausserhalb der Bauzone kann der Gewässerraum bei Fliessgewässern mit einer natürlichen Gerinnesohlenbreite von über 15 m zur Differenzierung der zulässigen Bewirtschaftung gemäss § 11e aufgeteilt werden in einen inneren Korridor, in dem das Gewässer verläuft, und beidseitig je einen äusseren Korridor.
+2 Die Breite des inneren Korridors hat mindestens die aktuelle Gerinnesohlenbreite zuzüglich 30 m (beidseitiger Uferstreifen von je 15 m ab Uferlinie) zu betragen. Bei Vorliegen wichtiger Gründe ist der innere Korridor angemessen zu verbreitern.
