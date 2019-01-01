@@ -41,7 +41,7 @@
 #### 5.7.2 Spielplätze und Freizeitanlagen
 #### 5.7.3 Immissionsschutz
 #### 5.7.4 Bezug von Neubauten
-### 5.8 Energie
+### 5.8 …
 ### 5.9 Hochhäuser
 ### 5.10 Einkaufs- und Fachmarktzentren
 ### 5.11 Camping
