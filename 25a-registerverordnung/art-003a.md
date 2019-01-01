@@ -1,0 +1,3 @@
+# § 3a Mehrjahresprogramm
+1 Die zentrale Statistikstelle des Kantons erarbeitet in Zusammenarbeit mit den Gemeinden und den für die kantonalen Register verantwortlichen Stellen und nach Anhören der interessierten Kreise sowie in Koordination mit dem Bundesamt für Statistik für jede Legislaturperiode in einem Mehrjahresprogramm eine vierjährige Leistungsplanung. Diese ist durch den Regierungsrat zu beschliessen.
+2 Im Mehrjahresprogramm werden die mittelfristigen Entwicklungsschwerpunkte und Leistungsziele bestimmt, um die Aktualität, die Richtigkeit und die Vollständigkeit der Register sicherzustellen sowie die technischen Voraussetzungen für den Aufbau und den Betrieb der kantonalen Register festzulegen, und die geplanten Finanzierungsbeiträge des Kantons festgehalten.
