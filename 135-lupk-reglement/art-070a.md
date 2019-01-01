@@ -1,0 +1,6 @@
+# Art. 70a Übergangsbestimmung zur Aufhebung von Art. 29 und 49 des LUPK-Reglements vom 12. Dezember 2013 per 1. Januar 2019
+1 Für Versicherte, die seit dem 31. Dezember 2018 ununterbrochen bei der LUPK versichert sind, finanziert der Arbeitgeber die nach dem vollendeten 62. Lebensjahr gemäss Art. 29 LUPK-Reglement in der Fassung vom 12. Dezember 2013 auszurichtenden AHV-Ersatzrenten wie folgt:
+a. Für pensionierte Versicherte, welche am 1. Januar 2019 eine ganze oder eine Teil-Altersrente beziehen, ohne Einschränkung entsprechend ihrer Alters-Rentenberechtigung.
+b. Für aktive Versicherte in dem Masse, soweit ihre AHV-Ersatzrente zwischen dem 1. Januar 2019 bis und mit 31. Dezember 2021 ausgerichtet wird.
+2 Verlangt eine versicherte Person eine AHV-Ersatzrente gemäss Art. 28, werden bei den Kosten gemäss Art. 28.4 die gemäss Art. 70a.1 vom Arbeitgeber finanzierten Leistungen angerechnet.
+3 Die Kosten der durch die Arbeitgeber finanzierten AHV-Ersatzrenten werden in Form eines jährlichen Beitrags von 0,7 Prozent der versicherten Besoldungen finanziert. Die LUPK führt über die Finanzierung der AHV-Ersatzrenten eine Sonderrechnung. Die Beitragspflicht endet ab Beginn des Folgejahres, in dem die Kosten der AHV-Ersatzrenten finanziert sind. Ein allfälliger Überschuss wird als Arbeitgeberleistung auf die Sonderrechnung gemäss Art. 70b.7 übertragen.
