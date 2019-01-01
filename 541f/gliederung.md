@@ -1,3 +1,5 @@
-## 1 Allgemeine Bestimmungen
-## 2 Zertifikat
-## 3 Schlussbestimmungen
+## 1 Allgemeines
+## 2 Zulassung
+## 3 Lehrgang
+## 4 Kosten
+## 5 Schlussbestimmungen
