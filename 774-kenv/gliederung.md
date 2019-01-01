@@ -1,9 +1,9 @@
-## 1 Zuständigkeit
-## 2 Energiesparmassnahmen
-### 2.1 Allgemeines
-### 2.2 Öl- und Gasbrenner
-### 2.3 Raumklima
-### 2.4 Verbrauchsabhängige Wärmekostenverteilung
-### 2.5 Ausnahmeverfahren
-## 3 Förderungsmassnahmen
-## 4 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Energieplanung und -versorgung
+## 3 Energienutzung
+### 3.1 Gebäude
+### 3.2 Eigenstromerzeugung bei Neubauten
+### 3.3 Grossverbraucher
+### 3.4 Weitere Anforderungen
+## 4 Förderung
+## 5 Vollzug
