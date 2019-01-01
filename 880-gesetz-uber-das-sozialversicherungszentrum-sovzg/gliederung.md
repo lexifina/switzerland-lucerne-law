@@ -1,10 +1,12 @@
-## 1 Ausgleichskasse
-### 1.1 Organisation
-### 1.2 Aufsichtskommission
-### 1.3 Leitung und Personal
-### 1.4 AHV-Zweigstellen
-### 1.5 Revisionsstelle
-### 1.6 Verschiedene Bestimmungen
-## 2 Allgemeine Vollzugsbestimmungen
-## 3 …
-## 4 Übergangs- und Schlussbestimmungen
+## 1 Sozialversicherungszentrum
+### 1.1 Allgemeines
+### 1.2 Verwaltungsrat
+### 1.3 Geschäftsleitung
+### 1.4 Revisionsstelle
+### 1.5 AHV-Zweigstellen
+### 1.6 Arbeitgeberkontrolle
+### 1.7 Personal
+## 2 Finanzierung
+## 3 Haftung und Rückgriff
+## 4 Datenschutz
+## 5 Schlussbestimmungen
