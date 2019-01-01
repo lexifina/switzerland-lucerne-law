@@ -1,0 +1,4 @@
+# § 105a Ersatzabgabe quellensteuerpflichtiger Personen
+1 Quellensteuerpflichtigen natürlichen Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton Luzern wird als Ersatzabgabe an der Quelle eine Pauschale in der Höhe von 100 Franken pro Jahr abgezogen. Personen, die nachträglich ordentlich veranlagt werden, entrichten die Ersatzabgabe nach den §§ 104 und 105. Die an der Quelle erhobene Ersatzabgabe wird angerechnet.
+2 Ist die Person mit dem vorgenommenen Abzug der Ersatzabgabe an der Quelle nicht einverstanden, kann sie unter Verwirkungsfolge bis Ende März des folgenden Kalenderjahres bei der Gemeinde eine ordentliche Veranlagung der Ersatzabgabe verlangen. Hat die Gemeinde Kenntnis von einer fehlenden Abgabepflicht, erstattet sie die an der Quelle erhobene Ersatzabgabe im folgenden Kalenderjahr von Amtes wegen zurück.
+3 Im Übrigen gelten die Bestimmungen des Steuergesetzes sinngemäss.
