@@ -1,0 +1,5 @@
+# § 11d Vertrauensarbeitszeit
+1 Für die Angestellten der Funktionsgruppe Ia gemäss § 2 der Besoldungsordnung für das Staatspersonal vom 12. September 2011 gilt Vertrauensarbeitszeit.
+2 Angestellte ab Lohnklasse 14 gemäss § 1 der Besoldungsordnung für das Staatspersonal und zuständige Behörden können einvernehmlich Vertrauensarbeitszeit vereinbaren. Die Vereinbarung hat schriftlich zu erfolgen und kann jeweils auf das Ende eines Kalenderjahres widerrufen werden. Die Dienststelle Personal erlässt Weisungen zum Vorgehen beim Wechsel zur Vertrauensarbeitszeit.
+3 Angestellte mit Vertrauensarbeitszeit sind von der Arbeitszeiterfassung gemäss § 19 befreit. Sie erfassen lediglich die Abwesenheiten gemäss den Vorgaben der Dienststelle Personal.
+4 Für die Angestellten mit Vertrauensarbeitszeit finden die §§ 14 und 15 keine Anwendung. Sie haben Anspruch auf 10 Kompensationstage pro Kalenderjahr. Nicht bezogene Kompensationstage können weder vergütet noch auf das neue Kalenderjahr übertragen werden. § 36 Absatz 3 findet sinngemäss Anwendung.
