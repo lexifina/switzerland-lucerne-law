@@ -5,7 +5,7 @@
 #### 1.2.2 Aufsichtsbehörden
 ### 1.3 Allgemeiner Brandschutz
 ## 2 Bauweise
-## 3 Feuerungs- und Rauchabzugsanlagen
+## 3 Feuerungs- und Abgasanlagen
 ## 4 Elektrische Installationen
 ## 5 …
 ## 6 Feuergefährliche Stoffe und Waren
