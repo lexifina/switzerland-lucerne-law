@@ -1,0 +1,2 @@
+# § 7a Übergangsbestimmung zur Änderung vom 2. Juli 2019
+1 Wer das bisher erforderliche Basismodul des Lehrgangs Verwaltungswirtschaft oder den eidgenössischen Fachausweis öffentliche Verwaltung sowie das bisherige Fachmodul Recht des Lehrgangs Verwaltungswirtschaft und den bisherigen Lehrgang Verwaltungsmanagement, inklusive Modul Fallstudien Recht, erfolgreich abgeschlossen hat, kann das Fähigkeitszeugnis erlangen.
