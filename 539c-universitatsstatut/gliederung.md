@@ -5,6 +5,7 @@
 ### 2.1 Organisation und Aufgaben der gesamtuniversitären Organe
 ### 2.2 Organisation und Aufgaben der Fakultäten und weiteren Organisationseinheiten
 #### 2.2.1 Fakultäten
+#### 2.2.1a Departemente
 #### 2.2.2 Seminare
 #### 2.2.3 Institute
 ### 2.3 Kommissionen auf Universitätsebene
