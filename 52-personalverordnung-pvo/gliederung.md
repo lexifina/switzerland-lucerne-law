@@ -18,6 +18,7 @@
 ## 14 Zuständigkeit und Verfahren
 ## 15 Schlichtungsstelle
 ## 16 Sonderbestimmungen
-### 16.1 Sonderbestimmungen für die Lehrpersonen und die Fachpersonen der schulischen Dienste
+### 16.1 Sonderbestimmungen für Lehrpersonen sowie für die Schulleitungen und die Fachpersonen der schulischen Dienste der kantonalen Schulen
+### 16.1a Sonderbestimmungen für die Schulleitungen, die Fachpersonen der schulischen Dienste und weitere Angestellte der Volksschulen
 ### 16.2 Sonderbestimmungen für die Angestellten in landwirtschaftlichen Betrieben und Haushalten
 ## 17 Schlussbestimmungen
