@@ -7,10 +7,11 @@
 ## 4 Pflege und Nutzung des Waldes
 ### 4.1 Bewirtschaftung und Planung
 ### 4.2 Verhütung und Behebung von Waldschäden
-## 5 Förderungsmassnahmen
+## 5 Förderungsmassnahmen und Finanzierung
 ### 5.1 Ausbildung, Beratung und Information
 ### 5.2 Holzförderung und Förderung von Organisationen
-### 5.3 Finanzierung
+### 5.2a Schutz vor Naturereignissen
+### 5.3 Weitere Förderungsmassnahmen
 ### 5.4 …
 ### 5.5 Fonds für Walderhaltung
 ## 6 Forstorganisation
