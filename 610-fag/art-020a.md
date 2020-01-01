@@ -1,0 +1,3 @@
+# § 20a Übergangsbestimmung der Änderung vom 28. Januar 2019
+1 Die Berechnung des Ressourcenpotenzials gemäss den Kontenrahmen nach § 47 des Gesetzes über den Finanzhaushalt der Gemeinden (FHGG) vom 20. Juni 2016 erfolgt für die Testgemeinden gemäss § 71 FHGG ab dem Rechnungsjahr 2018, für die übrigen Gemeinden ab dem Rechnungsjahr 2019.
+2 Der nächste Bericht über die Wirkungen und die Zielerreichung des Finanzausgleichs gemäss § 1 Absatz 2 ist zusammen mit dem Wirkungsbericht zur Aufgaben- und Finanzreform 18 zu erstellen. Der Regierungsrat unterbreitet ihn dem Kantonsrat spätestens im Jahr 2024.
