@@ -9,6 +9,7 @@
 ## 9 Abgaben
 ## 10 Allgemeine Bestimmungen
 ## 11 Einziehen von Forderungen für Dritte
+## 11a Sexgewerbe
 ## 12 Rechtsschutz
 ## 13 Strafbestimmungen
 ## 14 Schlussbestimmungen

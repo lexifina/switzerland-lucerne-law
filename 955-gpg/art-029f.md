@@ -1,0 +1,4 @@
+# § 29f Pflichten der Bewilligungsinhaberinnen und -inhaber
+1 Bewilligungsinhaberinnen und -inhaber sind zur Aufrechterhaltung von Ruhe und Ordnung im Betrieb und in dessen unmittelbarer Umgebung, zur Wahrung der Selbstbestimmungsrechte der Sexarbeiterinnen und -arbeiter, zur Einhaltung der Ausländergesetzgebung, der Steuergesetzgebung und der sozialversicherungsrechtlichen Bestimmungen sowie der betrieblichen Mindeststandards verpflichtet.
+2 Sie haben sicherzustellen, dass nur volljährige Sexarbeiterinnen und -arbeiter, die über eine Aufenthaltsberechtigung mit Berechtigung zur Erwerbstätigkeit verfügen, im Betrieb arbeiten.
+3 Kundinnen und Kunden, die gegen den Willen des Sexarbeiters oder der Sexarbeiterin ungeschützte sexuelle Handlungen mit erhöhten Gesundheitsrisiken verlangen, sind auf Verlangen des Sexarbeiters oder der Sexarbeiterin aus dem Betrieb wegzuweisen.
