@@ -1,0 +1,4 @@
+# § 72b Patente und vergleichbare Rechte: Besteuerung
+1 Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwandes zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung von 10 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
+2 Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6 Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
+3 Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert, wird der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand zum steuerbaren Reingewinn hinzugerechnet. Im Umfang des hinzugerechneten Betrags ist eine versteuerte stille Reserve zu bilden.

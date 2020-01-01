@@ -1,0 +1,4 @@
+# § 259b
+1 Wurden juristische Personen nach den §§ 85 und 86 bisherigen Rechts besteuert, werden die bei Ende dieser Besteuerung bestehenden stillen Reserven einschliesslich des selbstgeschaffenen Mehrwerts, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den nächsten fünf Jahren gesondert besteuert. Die Steuer je Einheit beträgt 0,4 Prozent des entsprechenden Reingewinns.
+2 Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbstgeschaffenen Mehrwerts wird von der Veranlagungsbehörde mittels Verfügung festgesetzt.
+3 Abschreibungen auf stillen Reserven einschliesslich des selbstgeschaffenen Mehrwerts, die bei Ende der Besteuerung nach den §§ 85 und 86 bisherigen Rechts aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach § 72c einbezogen.
