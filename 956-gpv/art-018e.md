@@ -1,0 +1,3 @@
+# § 18e Betriebliche Mindeststandards
+1 Die Sexarbeiterinnen und -arbeiter dürfen maximal zu einer Abgabe von 40 Prozent des Entgelts für die angebotenen sexuellen Dienstleistungen verpflichtet werden. Mit der Abgabe sind allfällige von den Sexarbeiterinnen und -arbeitern zu bezahlende Eintrittsgebühren und Gebühren für die Benützung der Räume sowie für weitere Dienstleistungen der Bewilligungsinhaberinnen und -inhaber, wie Administration, Werbung oder Wäsche, ebenfalls abgegolten.
+2 Die Bewilligungsinhaberinnen und -inhaber haben zu gewährleisten, dass die Sexarbeiterinnen und -arbeiter ihre Kundinnen und Kunden sowie die Art der sexuellen Dienstleistungen frei wählen können.

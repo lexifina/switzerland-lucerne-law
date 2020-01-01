@@ -7,4 +7,5 @@
 ### 5 Spiellokale
 ## 6 Geschicklichkeitsspielgeräte
 ### 7 Sondersteuern
+## 7a Sexgewerbe
 ### 8 Schlussbestimmungen
