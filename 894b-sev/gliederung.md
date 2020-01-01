@@ -1,13 +1,19 @@
-## 1 Organisation und Zuständigkeiten
-## 2 Planung und Steuerung
-## 3 Anerkennung
-## 4 Buchführung
-## 5 Betriebsrechnung
-### 5.1 Grundsatz
-### 5.2 Anrechenbarer Betriebsaufwand
-### 5.3 Anrechenbarer Betriebsertrag
-## 6 Leistungspauschalen
-## 7 Kostenübernahmegarantie und Empfehlung
-## 8 Beiträge an die anerkannten sozialen Einrichtungen
-## 9 Schlichtungsstelle
-## 10 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+### 1.1 Stationäre und ambulante Leistungen für Personen bis zum vollendeten 25. Altersjahr
+### 1.2 Stationäre und ambulante Leistungen für erwachsene Personen mit Behinderungen
+### 1.3 Stationäre und ambulante Leistungen in der sozialtherapeutischen Suchttherapie
+### 1.4 Stationäre Leistungen für schulpflichtige Kinder und Jugendliche in Sonderschulinternaten
+## 2 Organisation und Zuständigkeiten
+## 3 Planung und Steuerung
+## 4 Kostenregelung
+### 4.1 Allgemeines
+### 4.2 Kostenübernahmegarantie
+### 4.3 Leistungspauschale
+### 4.4 Kostengutsprache
+## 5 Kostenbeteiligung
+### 5.1 Allgemeines
+### 5.2 Kinder, Jugendliche sowie erwachsene Personen ohne Behinderungen
+### 5.3 Erwachsene Personen mit Behinderungen
+## 6 Betriebsrechnung und Buchführung
+## 7 Anerkennung und Aufsicht
+## 8 Schlichtungsstelle
