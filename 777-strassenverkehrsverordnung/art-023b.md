@@ -1,2 +1,2 @@
-# § 23b Meldepflicht
-1 Die Gemeinden melden Verkehrsanordnungen über Fahrverbote, Mass- und Gewichtsbeschränkungen sowie Änderungen von Höchstgeschwindigkeiten mindestens 20 Tage vor deren Veröffentlichung der Dienststelle Verkehr und Infrastruktur und stellen ihr die erforderlichen Unterlagen zu.
+# § 23b Stellungnahme
+1 Vor dem Erlass von Verkehrsanordnungen über Fahrverbote, Mass- und Gewichtsbeschränkungen sowie Änderungen von Höchstgeschwindigkeiten holt die Gemeinde die Stellungnahme der Dienststelle Verkehr und Infrastruktur ein und stellt ihr die erforderlichen Unterlagen zu.
