@@ -1,7 +1,7 @@
 # Wasserbauverordnung
 (WBV)
-vom 23.03.2004
+vom 15.10.2019
 Der Regierungsrat des Kantons Luzern,
-gestützt auf die §§ 2a, 13, 22 Absatz 1, 22c, 32 Absatz 3, 34 Absatz 1, 37 Absatz 5b des Wasserbaugesetzes vom 30. Januar 1979,
+gestützt auf die §§ 3 Absatz 3, 6 Absatz 3, 8 Absatz 6, 9 Absatz 2, 10 Absatz 2, 17 Absatz 1, 20 Absatz 1, 28 Absatz 2 und 36 Absatz 5 des Wasserbaugesetzes vom 17. Juni 2019,
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 beschliesst:

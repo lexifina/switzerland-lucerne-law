@@ -1,5 +1,5 @@
-## 1 Zuständigkeit
-## 2 Wasserbau
-## 3 Gewässerunterhalt
-## 4 Inanspruchnahme der Gewässer
+## 1 Allgemeine Bestimmungen
+## 2 Gewässerunterhalt und Wasserbau
+## 3 Wasserbauprojekte
+## 4 Bauten und Anlagen in öffentlichen Gewässern
 ## 5 Schlussbestimmungen

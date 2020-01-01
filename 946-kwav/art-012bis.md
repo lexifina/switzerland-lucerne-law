@@ -1,0 +1,2 @@
+# § 12bis Massnahmenplanung der Gemeinden
+1 Besteht für ein von der Gemeinde geplantes Einzelprojekt ein Anspruch auf Bundesgelder, leitet die Dienststelle Verkehr und Infrastruktur die Projektunterlagen zusammen mit ihrer Stellungnahme an den Bund weiter. Bei einem Projekt, welches über eine Programmvereinbarung mit dem Bund mitfinanziert wird, beurteilt die Dienststelle den Anspruch auf Bundesgelder selber.
