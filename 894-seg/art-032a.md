@@ -1,0 +1,2 @@
+# § 32a Abgeltung für Dienstleistungsanbieter in der Familienpflege
+1 Die Abgeltung von im Kanton Luzern anerkannten Dienstleistungsanbietern in der Familienpflege richtet sich bei inner- oder ausserkantonalen Platzierungen nach den Regeln dieses Gesetzes, wenn der Unterstützungswohnsitz der betreuungsbedürftigen Person gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger vom 24. Juni 1977 in einer Gemeinde des Kantons Luzern liegt.
