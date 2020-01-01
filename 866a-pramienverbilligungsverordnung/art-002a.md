@@ -1,7 +1,11 @@
-# § 2a Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2019
-1 Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2019 Anspruch auf die Verbilligung der anrechenbaren Prämien der Kinder um die Hälfte, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes 78 154 Franken nicht übersteigt.
-2 Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2019 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006 begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern wohnen, besteht der Anspruch auf eine hälftige Verbilligung der Prämien zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes 78 154 Franken nicht übersteigt.
-2bis Personen, die für das Jahr 2019 kein Gesuch um Verbilligung der Prämien für Kinder und junge Erwachsene in Ausbildung gestellt haben, können dies bis Ende Oktober 2019 nachholen.
-2ter Das Sozialversicherungszentrum des Kantons Luzern prüft die abgewiesenen Gesuche und die neu eingereichten Gesuche um Verbilligung von Prämien für Kinder und junge Erwachsene in Ausbildung für das Jahr 2019 gestützt auf die Einkommensgrenze gemäss den Absätzen 1 und 2. Allfällige geschuldete Beträge sind den Krankenversicherern auszuzahlen.
+# § 2a Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2020
+1 Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2020 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um die Hälfte, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2020
+a. bei Eltern Fr. 76496.–
+b. bei einem Elternteil Fr. 61197.–
+2 Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2020 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006 begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2020 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2020
+a. bei Eltern Fr. 76496.–
+b. bei einem Elternteil Fr. 61197.–
+2bis …
+2ter …
 3 …
 4 …
