@@ -5,15 +5,15 @@
 ### 2.3 Datenerhebung und -bearbeitung
 ## 3 Kantonale Spitäler
 ### 3.1 Allgemeines
-### 3.2 Organisation
-#### 3.2.1 Kantonale Behörden
-#### 3.2.2 Organe
-##### 3.2.2.1 Spitalrat
-##### 3.2.2.2 Direktor oder Direktorin
-### 3.3 Betriebsführung und -organisation, Controlling
-### 3.4 Finanzierung
-### 3.5 Finanzhaushalt und Rechnungsführung
+### 3.2 Kantonale Behörden
+#### 3.2.1 …
+#### 3.2.2 …
+##### 3.2.2.1 …
+##### 3.2.2.2 …
+### 3.3 Controlling
+### 3.4 …
+### 3.5 Finanz- und Entwicklungsplan
 ### 3.6 Spitalbauten und Betriebseinrichtungen
 ### 3.7 Personal
-### 3.8 Rechtsbeziehungen, Haftung und Rechtsschutz
+### 3.8 Rechtsbeziehungen und Haftung
 ## 4 Schlussbestimmungen
