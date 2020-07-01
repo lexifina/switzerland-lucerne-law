@@ -4,8 +4,8 @@
 ## 4 Unterhaltungsgewerbe
 ### 4.1 Bewilligungen
 ### 4.2 Jugendschutz im Filmwesen
-### 5 Spiellokale
-## 6 Geschicklichkeitsspielgeräte
-### 7 Sondersteuern
+### 5 …
+## 6 …
+### 7 …
 ## 7a Sexgewerbe
 ### 8 Schlussbestimmungen
