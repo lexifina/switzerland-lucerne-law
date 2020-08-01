@@ -7,5 +7,5 @@
 ### 3.4 Besoldungen der Professoren und Professorinnen, der Dozierenden und der Lehrbeauftragten
 ### 3.5 Dienstaltersgeschenk
 ### 3.6 Nebentätigkeiten
-### 3.7 Entschädigung für selbst erbrachte Dienstleistungen
+### 3.7 …
 ## 4 Schlussbestimmungen
