@@ -16,4 +16,5 @@
 ### 10.1 Förderung von Lernenden mit besonderen Begabungen
 ### 10.2 Förderung von Lernenden mit schulischen Defiziten
 ### 10.3 Schuldienste
+## 10a Finanzielles
 ## 11 Schlussbestimmungen
