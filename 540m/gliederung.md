@@ -3,5 +3,5 @@
 ## 3 Lehrgang
 ## 4 Leistungsnachweise
 ## 5 Kosten des Lehrgangs
-## 6 Sonstiges
+## 6 …
 ## 7 Schlussbestimmungen
