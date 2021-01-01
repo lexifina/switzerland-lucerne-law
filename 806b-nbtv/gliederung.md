@@ -1,4 +1,4 @@
 ## 1 Allgemeines
-## 2 Akupunktur
-## 3 Andere Methoden der Komplementärmedizin
+## 2 …
+## 3 Rechte und Pflichten bei der Berufsausübung
 ## 4 Schlussbestimmungen

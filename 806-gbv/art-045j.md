@@ -1,0 +1,2 @@
+# § 45j First-Responder-Gruppen
+1 Keine Bewilligung benötigen First-Responder-Gruppen, deren Tätigkeit sich auf die erste Hilfe bei einem Herz-Kreislauf-Stillstand mittels Herz-Lungen-Wiederbelebung (CPR) und automatisierter externer Defibrillatoren (AED) beschränkt. Die Dienststelle Gesundheit und Sport bewilligt den Anschluss der Gruppen an die Sanitätsnotrufzentrale, wenn die Betriebskonzepte den Anforderungen des IVR entsprechen. Sie holt dazu die Empfehlung eines durch den IVR zertifizierten Rettungsdienstes ein, der über eine Bewilligung nach dieser Verordnung verfügt.
