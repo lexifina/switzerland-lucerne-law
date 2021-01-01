@@ -40,7 +40,7 @@
 #### 1.3.6 Höchstbelastung von Korporationen
 ### 1.4 Quellensteuer für natürliche und juristische Personen
 #### 1.4.1 Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton Luzern
-#### 1.4.2 Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+#### 1.4.2 Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt im Kanton Luzern und juristische Personen ohne Sitz oder tatsächliche Verwaltung im Kanton Luzern
 #### 1.4.3 Gemeinsame Bestimmungen
 ### 1.5 Verfahren
 #### 1.5.1 Behörden
