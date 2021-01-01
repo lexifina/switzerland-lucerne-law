@@ -1,4 +1,1 @@
-# § 53f Datenweitergabe und Publikationen
-1 Der Betreiber des kantonalen Krebsregisters kann nicht anonymisierte Daten von Personen, die nicht im Einzugsgebiet des kantonalen Krebsregisters Wohnsitz haben, aber dort behandelt wurden, an das zuständige Krebsregister weiterleiten, sofern dieses ebenfalls über eine Bewilligung der Sachverständigenkommission nach Artikel 321bis des Schweizerischen Strafgesetzbuches zur Entgegennahme von nicht anonymisierten Personendaten verfügt.
-2 Er hat sicherzustellen, dass in den auf den gesammelten Personendaten basierenden Publikationen keine Identifizierung der betroffenen Personen möglich ist.
-3 Die Weitergabe von anonymisierten Personendaten an öffentliche Statistikstellen und Forschungsstellen richtet sich nach § 23 Absatz 4 des Statistikgesetzes vom 13. Februar 2006.
+# § 53f …

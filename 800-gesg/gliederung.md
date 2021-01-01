@@ -17,6 +17,7 @@
 #### 4.2.1 Kantonale Spitäler
 #### 4.2.2 Obduktion und Organentnahme
 ### 4.3 …
+## 4.4 Ergänzende Versorgung
 ## 5 Prävention und Gesundheitsförderung
 ## 6 Kantonales Krebsregister und E-Health-Modellversuche
 ### 6.1 Krebsregister

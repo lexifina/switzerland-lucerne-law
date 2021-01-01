@@ -1,2 +1,3 @@
-# § 53c Datenschutz
-1 Soweit dieses Gesetz keine besonderen Bestimmungen über den Datenschutz enthält, hat der Betreiber des kantonalen Krebsregisters bei der Bearbeitung von Personendaten die allgemeinen Datenschutzbestimmungen des Kantons sowie jene der generellen Bewilligung gemäss Artikel 321bis des Schweizerischen Strafgesetzbuches einzuhalten.
+# § 53c Betrieb
+1 Die Registrierung von Krebserkrankungen im kantonalen Krebsregister richtet sich nach dem Bundesgesetz über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz) vom 18. März 2016 und seinen Ausführungserlassen. Soweit diese keine besonderen Bestimmungen über den Datenschutz enthalten, hat der Betreiber bei der Bearbeitung von Personendaten die allgemeinen Datenschutzbestimmungen des Kantons sowie jene der generellen Bewilligung gemäss Artikel 321bis des Schweizerischen Strafgesetzbuches einzuhalten.
+2 Der Betreiber ist befugt, den zuständigen Stellen von kantonalen Früherkennungsprogrammen die für die Qualitätssicherung erforderlichen Daten zusammen mit der AHV-Versichertennummer bekannt zu geben.
