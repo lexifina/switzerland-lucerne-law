@@ -1,2 +1,3 @@
-# § 18a Fachstelle für Früherziehung und Sinnesbehinderungen
-1 Die Fachstelle für Früherziehung und Sinnesbehinderungen bietet heilpädagogische Früherziehung und Beratung von Lernenden mit Sinnesbehinderungen an.
+# § 18a Fachstelle für Früherziehung und Integrative Sonderschulung
+1 Die Fachstelle für Früherziehung und Integrative Sonderschulung bietet heilpädagogische Früherziehung und behinderungsspezifische Beratung in der integrativen Sonderschulung an.
+2 Sie besteht aus dem Heilpädagogischen Früherziehungsdienst, dem Audiopädagogischen Dienst, dem Visiopädagogischen Dienst, dem Fachdienst Autismus und dem Fachdienst Integrative Sonderschulung (Bereich kognitive Entwicklung).
