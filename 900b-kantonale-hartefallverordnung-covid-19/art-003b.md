@@ -1,0 +1,2 @@
+# § 3b Bedingte Gewinnbeteiligung bei Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken
+1 Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Jahr der Ausrichtung eines nicht rückzahlbaren Beitrags einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999 erzielen, leiten diesen an das Finanzdepartement weiter; dies aber höchstens im Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung.
