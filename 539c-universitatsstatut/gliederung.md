@@ -9,7 +9,7 @@
 #### 2.2.2 Seminare
 #### 2.2.3 Institute
 ### 2.3 Kommissionen auf Universitätsebene
-### 2.3a Ombudsstelle
+### 2.3a Ombuds- und Meldestelle
 ### 2.4 Bibliothek
 ## 3 Angehörige der Universität
 ### 3.1 Wissenschaftliches Universitätspersonal
