@@ -1,0 +1,6 @@
+# § 46a Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+1 Hat die oder der Angestellte Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16n–16s des Erwerbsersatzgesetzes, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, besteht Anspruch auf einen besoldeten Betreuungsurlaub von höchstens 14 Wochen.
+2 Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld von einem anspruchsberechtigten Elternteil geltend gemacht wird.
+3 Sind beide Elternteile Arbeitnehmende, hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Die Eltern können eine abweichende Aufteilung des Urlaubs wählen.
+4 Der Betreuungsurlaub kann tageweise oder am Stück bezogen werden. Der Bezug kürzt den Ferienanspruch nicht.
+5 Die zuständige Behörde ist über den geplanten Bezug und die Modalitäten des Urlaubs sowie über Änderungen jeweils unverzüglich zu informieren. Auf Verlangen ist der zuständigen Behörde ein Arztzeugnis einzureichen, welches die schwere gesundheitliche Beeinträchtigung sowie die Notwendigkeit der Begleitung, Betreuung oder Pflege des Kindes durch mindestens einen Elternteil bestätigt.
