@@ -1,0 +1,6 @@
+# Art. 45a Übergangsbestimmung der Änderung vom 1. August 2021
+1 Für Studierende, die ihr Studium vor Beginn des Studienjahres 2021/2022 aufgenommen haben, sowie für Studierende, die im Studienjahr 2021/2022 ein verkürztes Studium im Studiengang Sekundarstufe I aufnehmen, gilt das bisherige Recht.
+2 Für Studierende, die ihr Diplomerweiterungsstudium in einem Studienjahrgang beginnen, der sein Studium vor dem Studienjahr 2021/2022 aufgenommen hat, gilt das bisherige Recht.
+3 Studierende der Studiengänge Kindergarten/Unterstufe, Primarstufe und Sekundarstufe I sowie Studierende ohne EDK-anerkanntes Lehrdiplom im Studiengang Schulische Heilpädagogik, die ihr Studium im Studienjahr 2020/2021 aufgenommen haben und das erste Studienjahr verlängern, setzen ihr Studium ab 1. August 2021 nach neuem Recht fort.
+4 Studierende des Studiengangs Sekundarstufe II - gymnasiale Bildung, die ihr Studium am 1. März 2021 aufgenommen haben und zwei Fächer studieren, setzen ihr Studium ab 1. August 2021 nach neuem Recht fort.
+5 Studierende des Studiengangs Fachdidaktik, die ihr Studium in der Studienrichtung Natur, Mensch, Gesellschaft und Nachhaltige Entwicklung vor Beginn des Studienjahres 2021/2022 aufgenommen haben, setzen ihr Studium ab 1. August 2023 nach neuem Recht fort.

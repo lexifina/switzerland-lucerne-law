@@ -1,0 +1,2 @@
+# Art. 9a Übertritt von einer anderen pädagogischen Hochschule
+1 Bewerberinnen und Bewerber, die von einer anderen pädagogischen Hochschule oder anerkannten Lehrerinnen- und Lehrerbildungsinstitution zur Fortsetzung ihres Studiums an die PH Luzern übertreten wollen, sind verpflichtet, allfällig vorhandene Gründe anzugeben, welche zur vorübergehenden Aussetzung ihres bisherigen Studiums führten. Erfolgte die Aussetzung des Studiums aufgrund Nichtbestehens von Studienleistungen, die Bestandteile des Studiums an der PH Luzern darstellen, kann der Übertritt verweigert werden.
