@@ -1,0 +1,7 @@
+# § 13a Übertragung von Einsendungen in ein elektronisches Format
+1 Die von der Staatskanzlei bezeichneten Mitarbeiterinnen und Mitarbeiter des Postdienstes sind berechtigt, die bei der Verwaltung auf dem Postweg eintreffenden Einsendungen zu öffnen. Soweit sich die darin enthaltenen Dokumente dafür eignen, werden sie in ein elektronisches Dateiformat übertragen und umgehend in das Geschäftsverwaltungssystem der Verwaltungseinheit übermittelt.
+2 Vom Öffnen ausgenommen sind die als persönlich oder vertraulich bezeichneten Einsendungen sowie Einsendungen mit besonderen Vermerken.
+3 Bei der Übertragung in das elektronische Dateiformat ist nach dem Stand der Technik sicherzustellen, dass das elektronische Dokument mit dem Papierdokument übereinstimmt und dass es nicht verändert werden kann, ohne dass sich dies feststellen lässt. Die bei der Übertragung erfassten Absenderdaten und die elektronischen Dokumente sind von der Staatskanzlei spätestens nach sechs Monaten zu löschen.
+4 Die Staatskanzlei hält die Papierdokumente, die in das elektronische Format übertragen und übermittelt worden sind, während mindestens 20 Arbeitstagen seit dem Posteingang für die Dienststellen zur Verfügung.
+5 Sie regelt das Nähere zur vollständigen Übertragung in das elektronische Format sowie zur vorübergehenden Aufbewahrung und zur Vernichtung der auf dem elektronischen Weg weitergeleiteten Postsendungen durch Weisung.
+6 Die Staatskanzlei kann mit den Dienststellen besondere Vereinbarungen treffen.
