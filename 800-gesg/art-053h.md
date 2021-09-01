@@ -8,4 +8,4 @@ c. gewährleistet er, dass die Versuchsteilnehmerinnen und -teilnehmer freiwilli
 d. legt er die im Rahmen des Modellversuchs bearbeiteten Daten fest,
 e. regelt er die Zugriffsrechte auf Personendaten,
 f. stellt er die Evaluation des Modellversuchs sicher.
-4 Die Bestimmungen des Datenschutzgesetzes vom 2. Juli 1990 sind einzuhalten.
+4 Die Bestimmungen des Kantonalen Datenschutzgesetzes vom 2. Juli 1990 sind einzuhalten.

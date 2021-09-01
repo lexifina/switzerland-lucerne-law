@@ -7,4 +7,5 @@ c. die Bearbeitung in unmittelbarem Zusammenhang mit dem Abschluss oder der Abwi
 d. die Bekanntgabe im Einzelfall entweder für die Wahrung eines überwiegenden öffentlichen Interesses oder für die Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht unerlässlich ist,
 e. die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen,
 f. die betroffene Person die Daten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt hat.
-3 Der Beauftragte für den Datenschutz muss über die Garantien nach Absatz 2a informiert werden. Der Regierungsrat regelt das Nähere.
+3 Der oder die Beauftragte für den Datenschutz muss über die Garantien nach Absatz 2a informiert werden.
+4 Der Regierungsrat kann weitere Vorschriften erlassen.
