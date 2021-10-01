@@ -1,0 +1,2 @@
+# Art. 23a Befristung Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19
+1 Artikel 21a tritt am 1. Oktober 2021 in Kraft und gilt längstens bis zum 24. Januar 2022. Wird die Zertifikatspflicht für Arbeitnehmerinnen und Arbeitnehmer nach Artikel 25 Absätze 2bis und 2ter der Covid-19-Verordnung besondere Lage vom Bundesrat früher aufgehoben, entfällt Artikel 21a auf denselben früheren Zeitpunkt.
