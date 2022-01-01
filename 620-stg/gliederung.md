@@ -121,6 +121,8 @@
 #### 4.3.8 Besteuerung nach dem Aufwand
 #### 4.3.9 Besteuerung stiller Reserven bei Wechsel zur ordentlichen Steuerpflicht
 #### 4.3.10 Vermögenssteuer in den Steuerjahren 2020–2023
+#### 4.3.11 Miet- und Katasterwerte
+#### 4.3.12 Wirkungsbericht zur Vereinfachung des Schatzungswesens
 ### 4.4 Direkte Bundessteuer
 ### 4.5 …
 ### 4.6 …

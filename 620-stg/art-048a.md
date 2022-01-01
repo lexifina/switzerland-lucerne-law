@@ -1,3 +1,3 @@
-# § 48a Mitarbeiterbeteiligungen
-1 Mitarbeiterbeteiligungen nach § 24b Absatz 1 sind zum Verkehrswert einzusetzen. Allfällige Sperrfristen sind angemessen zu berücksichtigen.
-2 Mitarbeiterbeteiligungen nach den §§ 24b Absatz 3 und 24c sind bei Zuteilung ohne Steuerwert zu deklarieren.
+# § 48a Katasterwert
+1 Der Katasterwert der land- und forstwirtschaftlichen Grundstücke ist nach dem Ertragswert festzusetzen. Der Ertragswert ist nach den für die bundesrechtlichen Schatzungen geltenden Vorschriften zu ermitteln.
+2 Der Katasterwert der übrigen Grundstücke entspricht dem Verkehrswert.

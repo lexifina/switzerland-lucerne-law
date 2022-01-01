@@ -1,0 +1,5 @@
+# § 48d Mitwirkung bei der Ermittlung des Katasterwertes
+1 Die Amtsstellen des Kantons und der Gemeinden haben der Dienststelle Steuern des Kantons auf Verlangen Einsicht in sachdienliche Unterlagen zu gewähren. Sie können vom Regierungsrat angewiesen werden, bestimmte von ihm bezeichnete Tatsachen von sich aus kostenlos zu melden.
+2 Die Grundbuchämter melden der Dienststelle Steuern des Kantons kostenlos alle eingetragenen Handänderungen und Änderungen von Grundstückgrenzen sowie die Begründung und die Aufhebung von Baurechten, Stockwerkeigentum und selbständigem Miteigentum.
+3 Die Nachführungsgeometerinnen und -geometer haben der Dienststelle Steuern des Kantons auf Kosten des Auftraggebers oder der Auftraggeberin ein Doppel der Mutationspläne unter Angabe der Kulturart und ihrer Masse zuzustellen.
+4 Die Gebäudeversicherung Luzern stellt der Dienststelle Steuern des Kantons kostenlos die Unterlagen zur Ermittlung der Bauwerte zur Verfügung und meldet ihr die Neubauten und baulichen Veränderungen.
