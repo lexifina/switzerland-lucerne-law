@@ -1,7 +1,7 @@
 # Verordnung über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
-(Kantonale Zulassungsverordnung)
-vom 05.07.2013
-Der Regierungsrat des Kantons Luzern,
-gestützt auf die Artikel 3 und 4 der Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung vom 3. Juli 2013,
+(Kantonale Zulassungsverordnung, VZL)
+vom 30.11.2021
+Der Regierunsrat des Kantons Luzern,
+gestützt auf die Artikel 36, 38 Absätze 1 und 2 und 40d des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994,
 auf Antrag des Gesundheits- und Sozialdepartementes,
 beschliesst:

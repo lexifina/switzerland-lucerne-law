@@ -5,6 +5,9 @@ b. Organisationen der Ernährungsberatung,
 c. Organisationen der Hebammen,
 d. Organisationen der Logopädie,
 e. Organisationen der Physiotherapie,
-f. Transport und Rettungsunternehmen.
-2 Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) benötigen eine Betriebsbewilligung der Gemeinde, in der sie ihren Sitz haben. Spitex-Organisationen die ihren Sitz nicht im Kanton Luzern haben, müssen für eine Tätigkeit im Kanton Luzern nach dem Recht ihres Sitzkantons zum Betrieb zugelassen sein.
+f. Transport und Rettungsunternehmen,
+g. Organisationen der Neuropsychologie,
+h. Organisationen der Podologie.
+2 Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) benötigen eine Betriebsbewilligung der Gemeinde, in der sie ihren Sitz haben. Spitex-Organisationen, die ihren Sitz nicht im Kanton Luzern haben, müssen für eine Tätigkeit im Kanton Luzern nach dem Recht ihres Sitzkantons zum Betrieb zugelassen sein. Die Gemeinden melden der Dienststelle Gesundheit und Sport die Erteilung und das Erlöschen der Bewilligungen.
 3 Die in einem bewilligungspflichtigen Betrieb fachlich eigenverantwortlich tätigen Gesundheitsfachpersonen benötigen eine Berufsausübungsbewilligung.
+4 Abgabestellen für Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen, dürfen ohne Betriebsbewilligung tätig sein.

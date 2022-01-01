@@ -3,5 +3,4 @@
 a. an einer eidgenössischen oder einer gleichwertigen ausländischen Hochschule einen entsprechenden Bachelorabschluss erlangt haben,
 b. für den betreffenden Masterstudiengang immatrikuliert sind und
 c. seit der Immatrikulation für den Masterstudiengang die gemäss geltender Studienordnung erforderliche Anzahl Kreditpunkte geleistet haben.
-Beginn und Ende des Praktikums sind der zuständigen Dienststelle gemäss § 3 Absatz 1 zu melden.
 2 Der Bewilligungsinhaber oder die Bewilligungsinhaberin sorgt für eine den Fähigkeiten des Praktikanten oder der Praktikantin angemessene fachliche Kontrolle. Er oder sie hat anwesend zu sein.
