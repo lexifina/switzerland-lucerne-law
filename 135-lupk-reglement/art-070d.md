@@ -1,0 +1,7 @@
+# Art. 70d Übergangsbestimmungen zur Änderung von Art. 38 des LUPK-Reglements vom 12. Dezember 2013 per 1. Januar 2022
+1 Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 55. Lebensjahr noch nicht vollendet haben, bleibt der bisherige Rentenanspruch bestehen, bis sich der Invaliditätsgrad nach Art. 38.4 ändert. Der bisherige Rentenanspruch bleibt auch nach einer Änderung des Invaliditätsgrades nach Art. 38.4 bestehen, wenn bei Anwendung von Art. 38.4 der bisherige Rentenanspruch
+a. bei einer Erhöhung des Invaliditätsgrades sinkt oder
+b. bei einem Sinken des Invaliditätsgrades ansteigt.
+2 Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 30. Lebensjahr noch nicht vollendet haben, wird der Rentenanspruch nach Art. 38.1 spätestens per 1. Januar 2032 angewendet. Falls der Rentenbetrag im Vergleich zum bisherigen Betrag sinkt, wird der versicherten Person der bisherige Betrag so lange ausgerichtet, bis sich der Invaliditätsgrad nach Art. 38.4 verändert.
+3 Während der provisorischen Weiterversicherung nach Art. 26a BVG wird die Anwendung von Art. 38.1 aufgeschoben.
+4 Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 55. Lebensjahr vollendet haben, gilt das bisherige Recht.
