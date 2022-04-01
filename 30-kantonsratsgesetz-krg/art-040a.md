@@ -1,0 +1,4 @@
+# § 40a Covid-19-Zertifikatspflicht auf der Tribüne und im Ratssaal
+1 Während einer Session wird der Zutritt zum Ratssaal und zur Tribüne des Ratssaales nur mit einem gültigen Covid-19-Zertifikat gemäss Artikel 6a des Covid-19-Gesetzes vom 25. September 2020 gewährt. Die Geschäftsleitung des Kantonsrates kann die Massnahme aussetzen, wenn es die epidemiologische Lage zulässt.
+2 Den Mitgliedern des Kantonsrates und des Regierungsrates, dem Präsidenten oder der Präsidentin des Kantonsgerichtes und dem Staatsschreiber oder der Staatsschreiberin sowie allen weiteren Personen, die zwingend während einer Session Zutritt zum Ratssaal oder zur Tribüne benötigen, werden die Kosten für notwendige Tests zur Ausstellung des Zertifikats vergütet.
+3 Die Geschäftsleitung regelt die Einzelheiten zum Vollzug der Zertifikatspflicht. Insbesondere regelt sie die Kontrolle der Zertifikate und bestimmt die weiteren Personen, die Anspruch auf Vergütung der Tests haben.
