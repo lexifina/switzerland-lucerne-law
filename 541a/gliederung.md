@@ -1,11 +1,14 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Zulassungsvoraussetzungen
-## 3 Prüfungen und Seminararbeiten
-## 4 Studieninhalte
-## 5 Bachelorstudium als Vollstudium
-### 5.1 Allgemeines
-### 5.2 Studienleistungen Bachelorstudium
-## 6 Masterstudium als Vollstudium
-### 6.1 Allgemeines
-### 6.2 Studienleistungen Masterstudium
-## 7 Schlussbestimmungen
+## 2 Organe
+## 3 Zulassungsvoraussetzungen
+## 4 Studienangebote
+## 5 Leistungskontrollen
+## 6 Bachelor- und Masterarbeiten
+## 7 Studienabschlüsse
+## 8 Theologie (Bachelor, Master)
+## 9 Religionspädagogik (Diplom, Bachelor)
+## 10 Religionslehre (Master, Lehrdiplom)
+## 11 Ethik (Master)
+## 12 Philosophy, Theology and Religions (Master)
+## 13 Liturgical Music (Master)
+## 14 Schlussbestimmungen
