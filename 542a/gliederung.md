@@ -4,6 +4,6 @@
 ## 4 Bachelorstudiengänge
 ## 5 Masterstudiengänge
 ## 6 Studienleistungen, Credits und Prüfungen
-## 7 Bachelor- und Masterprüfungsverfahren
+## 7 Bachelor- und Masterverfahren
 ## 8 Studienabschluss
 ## 9 Schlussbestimmungen
