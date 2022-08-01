@@ -1,0 +1,4 @@
+# § 24a Weiterbildungskommission
+1 Die Weiterbildungskommission befasst sich mit Fragen der Weiterbildung. Sie erarbeitet Grundsätze und Strategien für die Weiterbildung an der Universität Luzern. Ihre weiteren Aufgaben werden im Rahmen des Rahmenreglements für die Weiterbildung an der Universität Luzern festgehalten.
+2 Die Weiterbildungskommission besteht aus mindestens sechs Mitgliedern, wobei die Fakultäten und Departemente je eine Vertretung entsenden. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet. Die Leiterin oder der Leiter der Weiterbildungsakademie der Universität Luzern gehört der Kommission mit beratender Stimme an.
+3 Der Senat wählt die Mitglieder der Weiterbildungskommission auf Vorschlag der Fakultäten und der Departemente für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich.
