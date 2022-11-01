@@ -1,3 +1,3 @@
 ## 1 Zuständigkeiten
-## 2 Mahnung und Erlass
+## 2 Stundung und Erlass
 ## 3 Schlussbestimmungen
