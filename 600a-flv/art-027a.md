@@ -5,4 +5,4 @@
 1. die Luzerner Pensionskasse,
 2. die Hochschule Luzern,
 3. die Luzerner Kantonalbank AG,
-4. das Luzerner Kantonsspital.
+4. die Luzerner Kantonsspital AG.
