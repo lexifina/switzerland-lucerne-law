@@ -1,0 +1,2 @@
+# § 68a Übergangsbestimmung der Änderung vom 18. Oktober 2022
+1 Die Gemeinden haben sicherzustellen, dass die Baugesuche bis spätestens 1. Januar 2024 nach den Vorgaben der §§ 55 Absätze 1 und 5 und 56 Absatz 1 elektronisch eingereicht und gemäss den Vorgaben von § 58 Absatz 2 öffentlich aufgelegt werden können. Bis dahin gelten für die Einreichung und die öffentliche Auflage die Vorgaben gemäss den bisherigen Bestimmungen.
