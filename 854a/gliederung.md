@@ -1,10 +1,7 @@
-## 1 Geltungsbereich und Wirkung
-## 2 Dauer und Beendigung des Arbeitsverhältnisses
-## 3 Einsatz und Weiterbildung der Arbeitnehmerinnen und Arbeitnehmer
-## 4 Arbeitszeit, Freizeit, Ferien und Urlaub
-## 5 Lohn
-## 6 Arbeitsbedingungen der weiblichen und der jugendlichen Arbeitnehmerschaft
-## 7 Unfall- und Krankenversicherung
-## 8 Berufliche Vorsorge und Abgangsentschädigung
-## 9 Zivilrechtspflege
-## 10 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Arbeitszeit, Freizeit, Ferien, Weiterbildung
+## 3 Lohn
+## 4 Lohnfortzahlung bei Arbeitsverhinderung und Sozialversicherungen
+## 5 Arbeitsbedingungen von jugendlichen und weiblichen Arbeitnehmenden
+## 6 Beendigung des Arbeitsverhältnisses
+## 7 Zivilrechtspflege
