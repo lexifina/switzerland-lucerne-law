@@ -1,10 +1,10 @@
-# § 2a Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2022
-1 Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2022 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2022
-a. bei Eltern Fr. 83434.–
-b. bei einem Elternteil Fr. 66747.–
-2 Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2022 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006 begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2022 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2022
-a. bei Eltern Fr. 83434.–
-b. bei einem Elternteil Fr. 66747.–
+# § 2a Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2023
+1 Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2023 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2023
+a. bei Eltern Fr. 89 346.–
+b. bei einem Elternteil Fr. 71 477.–
+2 Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2023 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006 begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2023 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2023
+a. bei Eltern Fr. 89 346.–
+b. bei einem Elternteil Fr. 71 477.–
 2bis …
 2ter …
 3 …
