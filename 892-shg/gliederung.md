@@ -10,6 +10,8 @@
 ### 6.2 Kostenpflicht und Kostenersatzpflicht
 ### 6.3 Verwandtenunterstützung und Rückerstattung
 ## 7 Alimentenhilfen
+### 7.1 Inkassohilfe
+### 7.2 Bevorschussung
 ## 8 Sozialhilfe für Personen aus dem Asylbereich
 ## 9 Verfahren
 ## 10 Schlussbestimmungen
