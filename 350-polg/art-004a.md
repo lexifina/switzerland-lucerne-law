@@ -1,4 +1,4 @@
-# § 4a Abrufverfahren
+# § 4a Abrufverfahren mit Gemeinden
 1 Die Gemeinden können der Luzerner Polizei mit öffentlich-rechtlichem Vertrag das Recht einräumen, die für die Erfüllung ihrer Aufgaben erforderlichen Daten bei der Einwohnerkontrolle elektronisch abzurufen.
 2 Der Zugriff kann auf folgende Daten eingeräumt werden:
 a. Name,
