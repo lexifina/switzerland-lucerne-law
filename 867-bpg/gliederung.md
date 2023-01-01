@@ -11,6 +11,7 @@
 ### 2.2 …
 #### 1b.3.3 Akut- und Übergangspflege
 ### 2.3 …
+## 2a Aufenthalt und Betreuung im Pflegeheim
 ## 3 Förderung der Ausbildung
 ## 4 Verfahren und ergänzendes Recht
 ## 5 Schlussbestimmungen
