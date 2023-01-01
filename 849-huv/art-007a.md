@@ -1,6 +1,6 @@
 # § 7a Veterinärdienst
 1 Der Veterinärdienst ist die Anlaufstelle für alle Belange im Zusammenhang mit dem Halten von Hunden. Er informiert die Öffentlichkeit über den Umgang mit Hunden.
-2 Er trifft je nach Schwere des Einzelfalls die nach § 7 erforderlichen Massnahmen, wie
+2 Sofern keine andere Stelle ausdrücklich dafür bezeichnet ist, ist der Veterinärdienst für den Vollzug der kantonalen Hundegesetzgebung zuständig. Er trifft je nach Schwere des Einzelfalls die nach § 7 erforderlichen Massnahmen, wie
 a. Verpflichtung des Halters oder der Halterin zu einem Kursbesuch;
 b. Maulkorbzwang;
 c. Einweisung des Hundes zur Beobachtung, gegebenenfalls zur Verhaltenserziehung;
