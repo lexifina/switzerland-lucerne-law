@@ -1,2 +1,2 @@
-# § 12a Zentrale Dienste
-1 Die Zentralen Dienste erbringen Dienstleistungen für die Universität.
+# § 12a Dienste
+1 Die Dienste erbringen Dienstleistungen für die Universität.
