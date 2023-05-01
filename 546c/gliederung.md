@@ -4,5 +4,5 @@
 ## 4 ECTS-Credits und Studienleistungen
 ## 5 Masterarbeit
 ## 6 Wahlstudienjahr
-## 7 Studienabschluss
+## 7 Studienabschluss und Urkunden
 ## 8 Schlussbestimmungen
