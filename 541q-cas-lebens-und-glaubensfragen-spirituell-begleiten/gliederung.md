@@ -1,6 +1,6 @@
-## 1 Allgemeine Bestimmungen
-## 2 Zulassungs- und Studienvoraussetzungen
-## 3 Studienstruktur
-## 4 Studienleistungen
-## 5 Master- und Studienabschluss
+## 1 Allgemeines
+## 2 Organisation und Zulassung
+## 3 Lehrgang
+## 4 Leistungsnachweise und Studienabschluss
+## 5 Finanzen
 ## 6 Schlussbestimmungen
