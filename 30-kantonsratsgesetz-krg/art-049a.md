@@ -7,3 +7,4 @@ d. seine Mitgliedschaften in Organen und Kommissionen des Bundes, des Kantons un
 2 Die Geschäftsleitung kann die Ratsmitglieder auffordern, Interessenbindungen bekannt zu geben. In streitigen Fällen entscheidet die Geschäftsleitung.
 3 Die Interessenbindungen sind öffentlich einsehbar.
 4 Vorbehalten bleiben die Bestimmungen des Strafgesetzbuches zur Wahrung des Berufsgeheimnisses.
+5 Ehemalige Interessenbindungen sind ebenfalls offenzulegen, sofern diese in den Zeitraum der vier Jahre vor Eintritt in den Kantonsrat fallen.
