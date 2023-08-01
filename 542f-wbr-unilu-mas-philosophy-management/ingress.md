@@ -1,4 +1,4 @@
-# Reglement über den Master of Advanced Studies in Philosophy+Management an der Fakultät II für Kultur- und Sozialwissenschaften der Universität Luzern
+# Reglement über den Master of Advanced Studies in Philosophy+Management an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 vom 23.01.2008
 Der Universitätsrat der Universität Luzern,
 gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000,
