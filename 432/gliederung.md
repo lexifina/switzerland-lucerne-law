@@ -6,7 +6,7 @@
 ### 2.4 Übergänge Volksschule – Berufsbildung – Arbeitsmarkt
 #### 2.4.1 Allgemeine Bestimmungen
 #### 2.4.2 Brückenangebote
-### 2.5 Schulische Bildungsangebot
+### 2.5 Schulische Bildungsangebote
 #### 2.5.1 Berufsfachschulen
 #### 2.5.2 Berufsmaturitätsangebote und Fachmittelschulen
 ### 2.6 Unterricht

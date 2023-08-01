@@ -8,10 +8,10 @@ Note Bedeutung
 3 ungenügend
 2 schwach
 1 sehr schwach
-3 Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden mit folgenden ganzen Noten beurteilt:
+3 Das Arbeitsverhalten und das Verhalten in der Gemeinschaft werden je mit den Prädikaten «übertroffen», «erreicht», «teilweise erreicht» und «nicht erreicht» beurteilt. Im Arbeitsverhalten werden die Kompetenzen «eigenverantwortlich arbeiten», «eigene Fähigkeiten einschätzen» und «Methoden und Arbeitswerkzeuge effektiv einsetzen» beurteilt. Im Verhalten in der Gemeinschaft werden die Kompetenzen «aktiv mit anderen zusammenarbeiten», «konstruktiv mit Kritik umgehen» und «respektvoll mit anderen umgehen» beurteilt.
 Note Bedeutung
-I gut
-II mangelhaft
-III ungenügend
+I …
+II …
+III …
 4 Das Zeugnis wird gestützt auf die Noten und die Rückmeldungen der Fachlehrpersonen durch die Klassenlehrperson ausgestellt.
 5 Der Lehrbetrieb erhält eine Zeugniskopie.
