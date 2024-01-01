@@ -1,9 +1,11 @@
-# § 6a Entschädigung für Angehörige des kantonalen Führungsstabes
-1 Angehörigen des kantonalen Führungsstabes werden jährlich maximal folgende Pauschalen entrichtet:
-a. Stabschef oder Stabschefin 5000 Franken
-b. Personen im Kernstab 3000 Franken
-c. weitere Fachpersonen 1000 Franken
-2 Die Höhe der Pauschale wird im Einzelnen durch den Stabschef oder die Stabschefin festgelegt. Für den Stabschef oder die Stabschefin erfolgt die Festlegung durch das Justiz- und Sicherheitsdepartement.
-3 Kein Anspruch auf Entschädigung besteht, wenn
-a. die Tätigkeit im kantonalen Führungsstab im Rahmen der beruflichen Tätigkeit für einen Arbeitgeber erbracht wird oder
-b. diese Personen für die Tätigkeit im kantonalen Führungsstab Sold oder Entschädigungen gemäss der Erwerbsersatzordnung erhalten.
+# § 6a Entschädigung und Zulagen für Angehörige des kantonalen Führungsstabes
+1 Die Entschädigung für Angehörige des kantonalen Führungsstabes richtet sich nach Anhang 3 der Besoldungsverordnung für das Staatspersonal vom 24. September 2002.
+a. …
+b. …
+c. …
+2 Gehört die Tätigkeit im kantonalen Führungsstab zum Aufgabenbereich eines oder einer Angestellten des Kantons oder eines anderen Arbeitgebers, gilt die Teilnahme als Arbeitszeit und es besteht kein Anspruch auf Entschädigung. Ebenfalls kein Anspruch auf Entschädigung besteht, wenn eine Person für ihre Tätigkeit im kantonalen Führungsstab Sold oder Entschädigungen gemäss der Erwerbsersatzordnung erhält.
+3 Der Stabschef oder die Stabschefin entscheidet über den Anspruch auf Entschädigung. Über den Anspruch des Stabschefs oder der Stabschefin auf Entschädigung entscheidet das Justiz- und Sicherheitsdepartement.
+a. …
+b. …
+4 Für Angehörige des kantonalen Führungsstabes gelten bei Einsätzen die Regelungen über Vergütungen für Nacht- und Sonntagsarbeit sowie Pikettdienst der Besoldungsverordnung für das Staatspersonal sinngemäss.
+5 Der Regierungsrat kann einzelnen Angehörigen des kantonalen Führungsstabes für unvermittelte Einsätze mit hoher Intensität eine Einsatzzulage von maximal 1500 Franken pro Einsatz zusprechen.
