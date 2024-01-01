@@ -4,3 +4,5 @@ vom 13.09.2010
 Der Kantonsrat des Kantons Luzern,
 nach Einsicht in die Botschaft des Regierungsrates vom 5. Februar 2010,
 beschliesst:
+1 Allgemeine Bestimmungen
+1.1 Gegenstand

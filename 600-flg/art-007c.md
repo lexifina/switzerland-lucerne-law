@@ -2,3 +2,4 @@
 1 Sind bei Rechnungsabschluss die Vorgaben zum Ausgleichskonto oder zur Schuldengrenze verletzt, dürfen nur noch die für die ordentliche und wirtschaftliche Staatstätigkeit unerlässlichen Ausgaben getätigt werden.
 2 Zudem hat der Regierungsrat unverzüglich Massnahmen einzuleiten, mit denen im nächsten Aufgaben- und Finanzplan sowohl für das Voranschlagsjahr als auch für die nachfolgenden Planjahre die Anforderungen der Schuldenbremsen erfüllt werden.
 3 Die Beschränkung der Ausgaben auf die für die ordentliche und wirtschaftliche Staatstätigkeit unerlässlichen Ausgaben gilt so lange, bis ein vom Kantonsrat beschlossener Voranschlag mit gültig festgesetzten Einheiten der Staatssteuern vorliegt, der die Anforderungen der Schuldenbremsen einhält.
+2.3 Aufgaben- und Finanzplan
