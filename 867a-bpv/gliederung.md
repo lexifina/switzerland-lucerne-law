@@ -10,6 +10,7 @@
 ### 1b.4 Mitfinanzierung der Akut- und Übergangspflege
 ## 2a Förderung der Ausbildung
 ## 2b Sicherstellung der Aufenthaltstaxen
+## 2c Unentgeltliche Betreuung durch Angehörige
 ## 3 Schlussbestimmungen
 ## A1 …
 ## A2 Anhang 2: Anrechenbare Kosten (§§ 5e Abs. 2 und 5g Abs. 2)
