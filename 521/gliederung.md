@@ -16,5 +16,5 @@
 ## A2 Anhang 2: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Wirtschaft
 ## A2a Anhang 2a: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Informatik
 ## A3 Anhang 3: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Soziale Arbeit
-## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design und Kunst
+## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design Film Kunst
 ## A5 Anhang 5: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Musik
