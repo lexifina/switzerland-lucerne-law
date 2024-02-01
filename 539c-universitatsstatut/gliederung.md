@@ -1,26 +1,20 @@
 ## 1 Aufgaben der Universität
 ### 1.1 Kernaufgaben
-### 1.2 Übrige Aufgaben
+### 1.2 Grundsätze der Aufgabenerfüllung
 ## 2 Organisation der Universität
-### 2.1 Organisation und Aufgaben der gesamtuniversitären Organe
-### 2.2 Organisation und Aufgaben der Fakultäten und weiteren Organisationseinheiten
-#### 2.2.1 Fakultäten
-#### 2.2.1a Departemente
-#### 2.2.2 Seminare
-#### 2.2.3 Institute
-### 2.3 Kommissionen auf Universitätsebene
-### 2.3a Ombuds- und Meldestelle
-### 2.4 Bibliothek
+### 2.1 Leitungsorgane der Universität
+### 2.2 Fakultäten
+### 2.3 Institute, Zentren und Akademien
+### 2.4 Kommissionen auf Universitätsebene
+### 2.5 Weitere Organisationseinheiten
 ## 3 Angehörige der Universität
-### 3.1 Wissenschaftliches Universitätspersonal
+### 3.1 Wissenschaftliches Personal
 ### 3.2 Studierende
-### 3.3 Administratives und technisches Personal
+### 3.3 Administratives, technisches und weiteres Personal
 ### 3.4 Gemeinsame Bestimmungen
 ## 4 Forschung und Lehre
 ### 4.1 Forschung
 ### 4.2 Lehre
 #### 4.2.1 Studiengänge
 #### 4.2.2 Lehrveranstaltungen
-## 5 Drittmittel und Eigenfinanzierung
-## 6 Urheberrecht
-## 7 Schlussbestimmungen
+## 5 Verschiedene Bestimmungen
