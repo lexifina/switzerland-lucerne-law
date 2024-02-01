@@ -7,4 +7,4 @@
 ## 7 Nebenfach- bzw. Schwerpunktfachangebote
 ## 8 Studienleistungen, Credits und Prüfungen
 ## 9 Studienabschluss
-## 10 Schlussbestimmungen
+## 10 Schluss- und Übergangsbestimmungen
