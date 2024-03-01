@@ -1,2 +1,2 @@
-# § 5a Anteilmässiger Besoldungsanspruch
-1 Bei Teilzeitarbeit besteht ein anteilmässiger Besoldungsanspruch entsprechend dem Beschäftigungsgrad.
+# § 5a Anteilmässiger Anspruch auf Besoldung und Spesen
+1 Bei Teilzeitarbeit besteht der Anspruch auf die Besoldung und den pauschalen Spesenersatz anteilmässig entsprechend dem Beschäftigungsgrad.
