@@ -5,4 +5,4 @@
 ## 5 Spesenersatz
 ## 6 Bewertung und Verrechnung von Naturalleistungen
 ## 7 Verschiedenes
-## 8 Schlussbestimmungen
+## 8 Übergangs- und Schlussbestimmungen
