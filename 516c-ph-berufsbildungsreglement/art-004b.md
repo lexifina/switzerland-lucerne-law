@@ -1,0 +1,2 @@
+# Art. 4b Sprachennachweis
+1 Von Bewerberinnen und Bewerbern eines SBFI-anerkannten Studiengangs, deren Erstsprache nicht Deutsch ist, wird ein Nachweis der Sprachkompetenz in Deutsch mündlich und schriftlich, in der Regel auf dem Niveau C2 des Gemeinsamen europäischen Referenzrahmens für Sprache, verlangt. Bewerberinnen und Bewerber, welche die für die Aufnahme anerkannten Vorbildungsausweise an einer Schule mit der Unterrichtssprache Deutsch erworben haben, können davon ausgenommen werden.
