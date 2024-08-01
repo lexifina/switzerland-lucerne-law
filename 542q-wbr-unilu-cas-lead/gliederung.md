@@ -2,4 +2,4 @@
 ## 2 Organisation
 ## 3 Weiterbildungsangebot
 ## 4 Abschlüsse und Zertifikate
-## 5 Schlussbestimmungen
+## 5 Schluss- und Übergangsbestimmungen
