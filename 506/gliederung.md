@@ -5,4 +5,5 @@
 ## 5 Mündliche Prüfungen
 ## 6 Bewertung der Leistungen
 ## 7 Maturitätszeugnisse
-## 8 Schlussbestimmungen
+## 8 Verhinderung und Unredlichkeiten
+## 9 Schlussbestimmungen
