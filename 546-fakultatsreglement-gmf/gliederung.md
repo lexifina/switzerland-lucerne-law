@@ -1,6 +1,5 @@
 ## 1 Allgemeines
 ## 2 Organisation der Fakultät
-## 3 Fakultätsversammlung
-## 4 Fakultätsleitung
-## 5 Fachbereiche
-## 6 Kommissionen
+## 3 Leitungsorgane der Fakultät
+## 4 Weitere Organe der Fakultät
+## 5 Schlussbestimmungen
