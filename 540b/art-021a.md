@@ -1,0 +1,2 @@
+# § 21a Double-Degree-Masterstudiengänge
+1 Sofern an einer Partneruniversität im Rahmen eines Double-Degree-Masterstudiengangs erbrachte Studienleistungen zu einem eigenständigen juristischen Abschluss an dieser Universität führen, können davon höchstens 30 Credits an das Masterstudium angerechnet werden. Die Fakultät kann dabei vorsehen, dass einzelne von der Fakultät angebotene Mastermodule an das Masterstudium nicht oder nur teilweise anrechenbar sind.
