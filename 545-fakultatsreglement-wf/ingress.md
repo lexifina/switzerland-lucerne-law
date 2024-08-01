@@ -1,6 +1,7 @@
-# Reglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
-(Fakultätsreglement)
-vom 16.04.2016
-Die Wirtschaftswissenschaftliche Fakultät der Universität Luzern,
-gestützt auf § 18 Absatz 2a des Statuts der Universität Luzern vom 12. Dezember 2001,
+# Organisationsreglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
+(Fakultätsreglement WF)
+vom 26.06.2024
+Der Universitätsrat der Universität Luzern,
+gestützt auf § 12 Absatz 2c des Statuts der Universität Luzern (Universitätsstatut) vom 13. Dezember 2023,
+auf Antrag des Senats,
 beschliesst:

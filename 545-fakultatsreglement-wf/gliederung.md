@@ -1,6 +1,6 @@
 ## 1 Allgemeines
 ## 2 Organisation der Fakultät
-## 3 Fakultätsversammlung
-## 4 Dekanat
-## 5 Kommissionen
-## 6 Schlussbestimmungen
+### 2.1 Fakultätsversammlung
+### 2.2 Dekanin oder Dekan und Fakultätsleitung
+### 2.3 Weitere Organisationseinheiten
+### 2.4 Verfahrensvorschriften
