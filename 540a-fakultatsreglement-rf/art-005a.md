@@ -1,6 +1,0 @@
-# § 5a Dekanatsleitung
-1 Die Dekanatsleitung besteht aus der Dekanin oder dem Dekan, der Prodekanin oder dem Prodekan, einem oder zwei weiteren Professorinnen oder Professoren und der Fakultätsmanagerin oder dem Fakultätsmanager.
-2 Die Prodekanin oder der Prodekan vertritt die Dekanin oder den Dekan im Falle der Verhinderung. Die weiteren Aufgaben der Prodekanin oder des Prodekans und der anderen Mitglieder der Dekanatsleitung sind in einer Richtlinie der Dekanin oder des Dekans zu umschreiben. Der Prodekanin oder dem Prodekan sowie dem oder den anderen Mitgliedern aus der Professorenschaft sind – entsprechend ihren Aufgaben – die von der Dekanin oder dem Dekan ernannten Delegierten zugeordnet.
-3 Die Dekanatsleitung unterstützt und berät den Dekan insbesondere bei der Vorbereitung der Geschäfte der Fakultätsversammlung sowie bei wichtigen Entscheidungen, die in der Kompetenz des Dekans liegen.
-4 Die Dekanin oder der Dekan ist gegenüber den Mitgliedern der Dekanatsleitung weisungsberechtigt.
-5 Die Dekanin oder der Dekan ist von der Lehre zur Hälfte entlastet. Die Dekanin oder der Dekan entscheidet über eine angemessene Entlastung der Prodekanin oder des Prodekans und der anderen Mitglieder der Dekanatsleitung aus der Professorenschaft.
