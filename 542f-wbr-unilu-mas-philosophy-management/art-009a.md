@@ -1,0 +1,3 @@
+# § 9a Finanzielles
+1 Die Höhe der Honorare der Dozierenden wird von der Studienleitung im Einklang mit der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern definiert.
+2 Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten.
