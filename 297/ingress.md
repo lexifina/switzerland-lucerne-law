@@ -1,6 +1,6 @@
-# Beschluss über die Vereinigung der Betreibungskreise Udligenswil und Meierskappel zu einem Betreibungskreis
-vom 15.04.1997
+# Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Gisikon-Honau-Root und Udligenswil-Meierskappel zu einem Betreibungskreis
+vom 19.08.2024
 Der Regierungsrat des Kantons Luzern,
 gestützt auf § 1 Absatz 2 des Einführungsgesetzes zum Bundesgesetz über Schuldbetreibung und Konkurs vom 22. Oktober 1996,
-auf Antrag des Justizdepartementes,
+auf Antrag des Justiz- und Sicherheitsdepartementes,
 beschliesst:
