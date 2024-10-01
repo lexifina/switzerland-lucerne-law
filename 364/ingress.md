@@ -1,6 +1,5 @@
-# Verordnung über die Strafkompetenzen gemäss Verordnung des Bundesrates über das militärische Kontrollwesen
-(Zuständigkeitsordnung)
-vom 07.12.1999
+# Verordnung über die Zuständigkeit im militärischen Disziplinarstrafrecht
+vom 03.09.2024
 Der Regierungsrat des Kantons Luzern,
-gestützt auf Art. 133 Abs. 1 der eidgenössischen Verordnung über das militärische Kontrollwesen (VmK) vom 7. Dezember 1998,
+gestützt auf Artikel 195 Absatz 4 des Militärstrafgesetzes (MStG) vom 13. Juni 1927 und Artikel 95 Absatz 1b und 2 der eidgenössischen Verordnung über die Militärstrafrechtspflege (MStV) vom 24. Oktober 1997,
 beschliesst:
