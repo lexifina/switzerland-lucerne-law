@@ -1,4 +1,1 @@
-# § 4octies Polizeilicher Informationssystem-Verbund des Bundes und der Kantone
-1 Die Luzerner Polizei kann sich zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie zur Kriminalitätsbekämpfung an Systemen des Bundes und der Kantone beteiligen, um Daten über Personen, Fahrzeuge, Sachen und deren Vorgänge sowie über Vorermittlungen und Ermittlungen innerhalb von Strafverfahren auszutauschen.
-2 Sie kann die Daten gemäss Absatz 1, einschliesslich besonders schützenswerter Personendaten, mit anderen Behörden des Bundes und der Kantone im Abrufverfahren austauschen. Der Datenaustausch ist zu protokollieren.
-3 Der Regierungsrat regelt das Nähere, insbesondere zu den eingesetzten Systemen, zur Zugriffsberechtigung und zu den Kategorien von Personendaten, die ausgetauscht werden können.
+# § 4octies …
