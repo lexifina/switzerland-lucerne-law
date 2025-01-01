@@ -1,3 +1,8 @@
 # § 4a Reduzierte Steuer
-1 Die Verkehrssteuer für Fahrzeuge mit Elektro-, Gas-, Wasserstoff-, Brennstoffzellen- oder Hybridantrieb der Fahrzeugarten gemäss § 13 Absatz 1d und 1h des Gesetzes beträgt 80 Prozent des entsprechenden Steueransatzes.
-2 Fahrzeughalter, welche die Steuervergünstigung beanspruchen, haben nachzuweisen, dass die Voraussetzungen erfüllt sind.
+1 Die Verkehrssteuer für Personenwagen und schwere Personenwagen wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn sie
+a. bei der ersten Inverkehrsetzung der Kategorie A oder B gemäss Energieetikette angehören und
+b. einen tieferen CO₂-Emissionswert aufweisen als die Hälfte des jeweils aktuellen Zielwertes des Bundes gemäss Anhang 4a der Verordnung über die Reduktion der CO₂-Emissionen vom 30. November 2012.
+1bis Die Verkehrssteuer für Kleinbusse, Lieferwagen, leichte Motorwagen, Sattelschlepper bis 3,5 t, leichte Sattelmotorfahrzeuge und Motorräder mit weissen Schildern wird für das Jahr der ersten Inverkehrsetzung sowie für die vier darauffolgenden Jahre um 80 Prozent reduziert, wenn
+a. sie rein elektrisch (batterieelektrisch oder wasserstoffelektrisch) betrieben sind und
+b. bei der ersten Inverkehrsetzung der Anteil der rein elektrischen Fahrzeuge an den in der entsprechenden Kategorie zugelassenen Fahrzeugen noch nicht 20 Prozent erreicht hat.
+2 Halterinnen und Halter von Fahrzeugen, die eine reduzierte Steuer beanspruchen, haben den Nachweis zu erbringen, dass ihr Fahrzeug die Voraussetzungen erfüllt.
