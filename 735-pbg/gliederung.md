@@ -47,6 +47,7 @@
 ### 5.11 Camping
 ### 5.12 Bestandesgarantie und Bauvorhaben ausserhalb der Bauzonen
 ## 6 Baubewilligung und Baukontrolle
+## 6a Kantonales Plangenehmigungsverfahren
 ## 7 Rechtsschutz
 ## 8 Aufsicht, Vollzug, Strafen
 ## 9 Schlussbestimmungen
