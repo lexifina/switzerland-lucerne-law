@@ -20,6 +20,7 @@
 ## 5 Baubewilligungspflicht und Baubewilligungsverfahren
 ### 5.1 Baubewilligungspflicht
 ### 5.2 Baubewilligungsverfahren
+## 5a Kantonales Plangenehmigungsverfahren
 ## 6 Kosten
 ## 7 Schlussbestimmungen
 ## Anhang 1: Weiter geltende Bestimmungen der aufgehobenen Planungs- und Bauverordnung gemäss § 68
