@@ -5,3 +5,5 @@ a. nicht innerhalb der Referendumsfrist beschlossen und beim Justiz- und Sicherh
 b. von einem unzuständigen Organ beschlossen worden sind,
 c. nicht zweifelsfrei erkennen lassen, für welche Vorlage die Volksabstimmung verlangt wird
 3 Das Referendum kann nicht zurückgezogen werden.
+8 Aufsicht und Rechtspflege
+8.1 Aufsicht
