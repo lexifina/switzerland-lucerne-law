@@ -123,6 +123,9 @@
 #### 4.3.10 Vermögenssteuer in den Steuerjahren 2020–2023
 #### 4.3.11 Miet- und Katasterwerte
 #### 4.3.12 Wirkungsbericht zur Vereinfachung des Schatzungswesens
+#### 4.3.13 Tarif Kapitalleistungen aus Versicherung und Vorsorge
+#### 4.3.14 Kapitalsteuersatz
+#### 4.3.15 Beteiligung der Einwohnergemeinden am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen und Abfederung der Ertragsausfälle aufgrund der Änderung vom 18. März 2024
 ### 4.4 Direkte Bundessteuer
 ### 4.5 …
 ### 4.6 …
