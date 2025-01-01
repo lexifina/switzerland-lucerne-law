@@ -4,7 +4,7 @@
 ### 3.1 Massnahmen im Baubewilligungsverfahren
 ### 3.2 Massnahmen bei Feuerungsanlagen
 ### 3.3 Massnahmen zur Begrenzung der Luftverunreinigung
-## 4 Lärmschutz
+## 4 Lärm- und Strahlenschutz
 ## 5 Abfallbewirtschaftung
 ### 5.1 Allgemeine Bestimmungen
 ### 5.2 Sonderabfälle
