@@ -1,0 +1,4 @@
+# § 1c Massnahmenprogramm Mobilität
+1 Das Massnahmenprogramm Mobilität enthält die Massnahmen des Kantons, die in der Programmperiode geplant, ausgeführt oder fortgesetzt werden. Diese umfassen insbesondere Bauvorhaben für die Verkehrsinfrastruktur, Planungsvorgaben für das Angebot des öffentlichen Verkehrs und weitere Massnahmen zur Steuerung der Gesamtmobilität. Die Massnahmen werden im Programm beschrieben und ihre mutmasslichen Kosten aufgeführt. Massnahmen können in Sammelrubriken zusammengefasst werden. Der Regierungsrat legt den Mindestinhalt in der Verordnung fest.
+2 Die betroffenen Gemeinden, die regionalen Entwicklungsträger und die weiteren interessierten Kreise können sich vernehmen lassen.
+3 Das Massnahmenprogramm Mobilität ist mindestens alle vier Jahre zu überarbeiten und dem Kantonsrat zur Beschlussfassung vorzulegen.
