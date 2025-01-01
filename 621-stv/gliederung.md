@@ -16,6 +16,7 @@
 #### 2.1.1 Voraussetzungen und Verlegung
 #### 2.1.2 Verfahren
 ### 2.2 …
+#### 2a Gemeindeanteil am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen
 ## 3 Schlussbestimmungen
 ### 3.1 Aufhebung und Änderung von Erlassen
 ### 3.2 …
