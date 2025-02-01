@@ -1,0 +1,2 @@
+# § 5a Lehrkörper
+1 Der Lehrkörper besteht aus Dozierenden der Universität Luzern sowie aus beigezogenen Referentinnen und Referenten anderer Universitäten und weiteren Fachpersonen aus dem Bereich Innovationsmanagement und affinen Bereichen. Die Studienleitung ist für die Auswahl des Lehrkörpers verantwortlich, die nach wissenschaftlichen und didaktischen Kriterien erfolgt.
