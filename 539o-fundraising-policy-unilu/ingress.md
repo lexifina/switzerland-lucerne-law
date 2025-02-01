@@ -3,6 +3,6 @@ Nr. 539o
 (Fundraising Policy UniLU)
 vom 12.05.2023
 Der Universitätsrat der Universität Luzern,
-gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000,
+gestützt auf § 16 des Universitätsgesetzes vom 17. Januar 2000 und § 12 Absatz 2f des Statuts der Universität Luzern (Universitätsstatut),
 auf Antrag des Senats,
 beschliesst:
