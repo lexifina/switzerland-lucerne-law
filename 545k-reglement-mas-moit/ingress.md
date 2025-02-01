@@ -3,6 +3,6 @@ Nr. 545k
 (Reglement MAS MoIT)
 vom 23.06.2023
 Der Universitätsrat der Universität Luzern,
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000,
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut),
 auf Antrag des Senats,
 beschliesst:
