@@ -1,6 +1,6 @@
-# Reglement über die Zertifikationslehrgänge (Certificate of Advanced Studies) in «Growth and Transformation» und «Innovation Management» an der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
+# Reglement zum Weiterbildungsangebot «Certificate of Advanced Studies (CAS) in Growth and Transformation» des Instituts für Marketing and Analytics der Universität Luzern (IMA)
 vom 10.12.2020
 Der Universitätsrat der Universität Luzern,
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000,
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut),
 auf Antrag des Senats,
 beschliesst:
