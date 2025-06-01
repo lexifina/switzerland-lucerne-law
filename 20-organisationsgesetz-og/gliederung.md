@@ -19,4 +19,5 @@
 ## 5 Rechtlich selbständige Organisationen
 ### 5.1 Allgemeines
 ### 5.2 Öffentlich-rechtliche Anstalten
+## 5a Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip
 ## 6 Übergangs- und Schlussbestimmungen
