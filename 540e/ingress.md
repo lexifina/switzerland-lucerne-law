@@ -1,5 +1,6 @@
-# Reglement über den Zertifikatslehrgang «Agrarrecht»
-vom 17.12.2010
+# Reglement zum Weiterbildungsangebot «Certificate of Advanced Studies (CAS) in Agrarrecht» der Universität Luzern
+vom 24.10.2025
 Der Universitätsrat der Universität Luzern,
-gestützt auf § 6 Absatz 1 und § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000,
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut),
+auf Antrag des Senats,
 beschliesst:

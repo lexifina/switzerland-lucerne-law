@@ -1,7 +1,6 @@
-## 1 Allgemeines
-## 2 Zulassung
-## 3 Studiengang
-## 4 Kursgelder
-## 5 Sonstiges
-## 6 Rechtsweg
-## 7 Schluss- und Übergangsbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Organisation
+## 3 Zulassung
+## 4 Aufbau und Inhalt des Lehrgangs
+## 5 Finanzen
+## 6 Schlussbestimmungen
