@@ -6,6 +6,7 @@
 ## 6 Kontrollschilder
 ## 7 Strassensignalisation
 ### 7.1 Zuständigkeit
+### 7.1a Abweichungen von den allgemeinen Höchstgeschwindigkeiten auf verkehrsorientierten Strassen innerorts
 ### 7.2 Verfahren
 ## 8 Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen
 ## 9 Schlussbestimmungen
