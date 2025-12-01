@@ -1,0 +1,4 @@
+# § 7a Klinische Dozentur
+1 Der Titel einer Klinischen Dozentin oder eines Klinischen Dozenten kann an promovierte Ärztinnen und Ärzte verliehen werden, die an einer mit der Universität Luzern verbundenen Partnerinstitution in der Gesundheitsversorgung angestellt sind.
+2 Für die Verleihung einer Klinischen Dozentur sind eine mindestens fünfjährige Lehrtätigkeit sowie der Nachweis didaktischer Fähigkeiten und wissenschaftlicher Publikationstätigkeit Voraussetzung. Einzelheiten sowie das Verfahren regelt die jeweilige Fakultät in einer Richtlinie, die der Genehmigung des Senats bedarf.
+3 Die Titelträgerin oder der Titelträger ist berechtigt, den Titel während ihrer oder seiner Lehrtätigkeit an der Universität Luzern zu tragen. Das Recht erlischt mit Beendigung der Lehrtätigkeit oder durch Entzug des Titels.
