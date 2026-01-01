@@ -1,0 +1,3 @@
+# § 15a Soziallohn
+1 Praktikantinnen und Praktikanten, Polizeiaspirantinnen und -aspiranten sowie Lernende, die Anspruch auf die besondere Sozialzulage nach § 15 haben und das soziale Existenzminimum gemäss den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS) nicht erreichen, können einen monatlichen Soziallohn beantragen.
+2 Die Höhe des Soziallohns berechnet sich im Einzelfall nach der tatsächlichen Unterschreitung des sozialen Existenzminimums gemäss den SKOS-Richtlinien und hängt vom Beschäftigungsgrad ab. Bei einem Vollpensum beträgt der Soziallohn maximal 650 Franken pro Monat.

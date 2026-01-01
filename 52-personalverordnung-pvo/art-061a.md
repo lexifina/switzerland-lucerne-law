@@ -1,5 +1,5 @@
 # § 61a Auslagerung von Informatikdienstleistungen a. Zulässigkeit
-1 Die Auslagerung von Informatikdienstleistungen, welche das Personalinformationssystem betreffen, ist zulässig, sofern die Vorschriften über den Datenschutz sowie die Bestimmungen dieser Verordnung und der Informatikverordnung vom 10. Dezember 2002 eingehalten werden. Die finanzrechtlichen Vorschriften bleiben vorbehalten.
+1 Die Auslagerung von Informatikdienstleistungen, welche das Personalinformationssystem betreffen, ist zulässig, sofern die Vorschriften über den Datenschutz sowie die Bestimmungen dieser Verordnung und der Informatikverordnung vom 17. Juni 2016 eingehalten werden. Die finanzrechtlichen Vorschriften bleiben vorbehalten.
 2 Die Auslagerung setzt eine schriftliche Vereinbarung voraus, die mindestens folgende Punkte regelt:
 a. Inhalt der Dienstleistung,
 b. Wahrung des Amtsgeheimnisses sowie besonderer Geheimhaltungspflichten,
