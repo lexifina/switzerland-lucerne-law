@@ -2,5 +2,5 @@
 ## 2 Kaminfegerdienst und Feuerschau
 ### 2.1 Kaminfegerdienst
 ### 2.2 Feuerschau
-## 3 Feuerwehrdienst
+## 3 Feuerwehrwesen
 ## 4 Schlussbestimmungen
