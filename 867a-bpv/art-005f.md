@@ -1,5 +1,5 @@
 # § 5f Erbringung der Ausbildungsleistung
-1 Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen.
+1 Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen. Die Pflicht zur Ausbildung auf Tertiärstufe als Voraussetzung für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung gemäss Artikel 36a Absatz 3 und Artikel 39 Absatz 3 in Verbindung mit Absatz 1bis KVG bleibt vorbehalten.
 2 Sie können die Ausbildungsleistung im eigenen Betrieb erbringen oder Ausbildungsverbünde mit Leistungserbringern im Sinn von § 5d Absatz 1 bilden. Mit Bewilligung der Dienststelle Soziales und Gesellschaft kann bei spezialisierten Angeboten die Ausbildungsleistung auch in einem Ausbildungsverbund mit einem Spital mit Standort im Kanton Luzern erbracht werden.
 2bis Ausbildungsverbünde bestimmen die Aufteilung der insgesamt zu erfüllenden Ausbildungsleistung auf die beteiligten Betriebe selber.
 3 …
