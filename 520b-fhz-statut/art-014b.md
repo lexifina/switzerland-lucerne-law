@@ -1,0 +1,2 @@
+# Art. 14b Digitale Entwicklungen und Services
+1 Der Bereich Digitale Entwicklungen und Services verantwortet die grundlegenden IT-Services für alle Angehörigen der Hochschule, die spezifische IT für den vierfachen Leistungsauftrag, die Geschäftsapplikationen sowie das Technologiescouting und die Innovationen. Er stellt die Verankerung der oben genannten Aufgaben in der gesamten Hochschule sicher, in Übereinstimmung mit den strategischen Zielen der Hochschule Luzern.

@@ -3,8 +3,9 @@
 ### 2.1 Allgemeines
 ### 2.2 Hochschulleitung
 ### 2.3 Rektorat
+### 2.3a Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation, Personal und Hochschulentwicklung (Hochschuldienste)
 ### 2.4 Departemente
-### 2.5 Finanzen und Services
+### 2.5 …
 ### 2.6 Ressorts
 ### 2.7 Beiräte
 ### 2.8 Weitere Organisationseinheiten
