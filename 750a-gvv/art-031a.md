@@ -1,0 +1,4 @@
+# § 31a Verwaltung der Fonds
+1 Die Gebäudeversicherung verwaltet die Präventionsbeiträge im Fonds für Feuer- und Elementarschadenschutz im Sinne von § 43a Absätze 1 und 2b GVG sowie im Fonds für erweiterte Objektschutzmassnahmen im Sinne von § 43a Absatz 2a GVG.
+2 Übersteigt der Saldo des Fonds für erweiterte Objektschutzmassnahmen nach den jährlichen Auszahlungen der Beiträge an Kanton und Gemeinden das Dreifache der jährlichen Einlagen in den Fonds, ist der entsprechende Saldoüberschuss in den allgemeinen Fonds für den Feuer- und Elementarschadenschutz zu übertragen.
+3 Reichen in einem Jahr die im Fonds für erweiterte Objektschutzmassnahmen verfügbaren Mittel nicht aus, um die von Kanton und Gemeinden beantragten Beiträge an Massnahmen zum Schutz vor Naturgefahren zu decken, ist eine Beitragszusicherung für künftige Jahre mit einer Aufteilung der Auszahlung auf mehrere Jahre möglich.
