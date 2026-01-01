@@ -11,7 +11,7 @@
 ## 6 Rechte
 ### 6.1 Grundsätzliches
 ### 6.2 Besoldung
-### 6.3 Sozialzulagen
+### 6.3 Finanzielle Unterstützung zur Vereinbarkeit von Beruf und Familie
 ### 6.4 Vergütungen und Naturalentschädigungen
 ### 6.5 Verschiedene weitere Rechte
 ## 7 Pflichten

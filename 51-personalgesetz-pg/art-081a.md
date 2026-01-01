@@ -1,3 +1,3 @@
 # § 81a Übergangsbestimmung der Änderung vom 9. September 2013
 1 Die §§ 65–67 und 70–72c der Verordnung über die Luzerner Pensionskasse vom 11. Mai 1999 sind in den reglementarischen Kassenbestimmungen der Luzerner Pensionskasse solange unverändert weiterzuführen, wie Versicherte der Luzerner Pensionskasse noch Ansprüche daraus ableiten können.
-2 Die bei Inkrafttreten der Änderung von § 63 Absatz 3c amtierenden Mitglieder des Vorstandes der Luzerner Pensionskasse sowie die bei Inkrafttreten der Änderung von § 63 Absatz 3d amtierende Präsidentin können ihre Funktionen bis zum Ablauf ihrer Amtsdauer am 30. Juni 2015 ausüben.
+2 …
