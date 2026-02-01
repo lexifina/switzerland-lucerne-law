@@ -1,4 +1,4 @@
-# Reglement betreffend Ausstand in Berufungs- und Beförderungsverfahren sowie in Verfahren auf Verleihung von Titeln einer Professorin oder eines Professors
+# Reglement betreffend Ausstand in Berufungs- und Beförderungsverfahren sowie in Verfahren auf Verleihung von Titeln
 (Reglement Ausstand UniLU)
 vom 26.06.2024
 Der Universitätsrat der Universität Luzern,
