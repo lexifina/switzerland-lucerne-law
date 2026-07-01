@@ -12,3 +12,4 @@ h. Wegweisungen,
 i. Bewachungsaufträge,
 j. Lagerapport für die strategische Polizeiführung.
 3 Die Luzerner Polizei legt die Zugriffsberechtigungen auf Inhalte des Lagebildes für die einzelnen Benutzerrollen in einem Informationssicherheits- und Datenschutzkonzept fest. Als intern klassifizierte Inhalte können von allen Angehörigen der Luzerner Polizei eingesehen werden, die Zugriff auf die Stammdatenbank der Luzerner Polizei haben. Die Einsicht in sensible Daten, namentlich in besonders schützenswerte Personendaten, sowie weiter gehende Datenbearbeitungsrechte sind speziell bezeichneten Angehörigen der Luzerner Polizei vorbehalten.
+2 Dienstrechtliche Vorschriften
