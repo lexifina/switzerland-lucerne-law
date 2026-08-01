@@ -5,3 +5,5 @@
 a. Ein Versuch auf Basis einer freiwilligen Teilnahme ist nicht geeignet.
 b. Von den Ansprüchen der Angestellten aus dem öffentlich-rechtlichen Arbeitsverhältnis wird nicht abgewichen.
 4 Die Dauer des Pilotversuchs beträgt in der Regel ein Jahr. Ausnahmsweise kann die Dauer auf höchstens drei Jahre erhöht werden, wenn dies für eine aussagekräftige Auswertung der Ergebnisse des Pilotversuchs und die Umsetzung erforderlich ist.
+2 Arbeitsverhältnis
+2.1 Begründung der Anstellung

@@ -3,3 +3,4 @@
 2 Der Beitrag pro Lernenden und Lernende und Schuljahr wird von der Dienststelle Gymnasialbildung gestützt auf die Betriebskosten des vorletzten Jahres jährlich neu berechnet.
 3 Für die Berechnung des Gemeindebeitrages ist die Anzahl Lernender in der obligatorischen Schulzeit am 1. September des laufenden Schuljahres massgebend.
 4 Gemeindebeiträge an private Gymnasien entsprechen den Beiträgen an die Kantonsschulen und stehen unter dem Vorbehalt gemäss § 51 Absatz 4.
+11 Schlussbestimmungen

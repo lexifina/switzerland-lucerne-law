@@ -4,3 +4,4 @@
 3 Bei absichtlicher oder grobfahrlässiger Herbeiführung des Berufsunfalles oder der Berufskrankheit entfällt der Anspruch nach Absatz 1. Ein absichtliches oder grobfahrlässiges Handeln wird angenommen, wenn die obligatorische Unfallversicherung eine Leistungskürzung beziehungsweise Leistungsverweigerung nach Artikel 37 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981 vornimmt.
 4 Bei Rückfällen und Spätfolgen aus Berufsunfällen oder Berufskrankheiten werden Leistungen nach Absatz 1 ausgerichtet, sofern im Zeitpunkt des Eintritts des Rückfalls oder der Spätfolgen weiterhin eine Anstellung beim Kanton Luzern besteht.
 5 Der Kanton kann für die Leistungen gemäss Absatz 1 eine Versicherung abschliessen.
+4.2 Arbeitsverhinderung wegen Dienstleistung
