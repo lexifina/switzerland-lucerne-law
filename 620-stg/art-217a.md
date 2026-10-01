@@ -11,3 +11,4 @@ c. nach einer Absorption (Art. 3 Abs. 1a FusG) oder Abspaltung (Art. 29 Unterabs
 4 Zeigt ein ausgeschiedenes Organmitglied oder eine ausgeschiedene Vertretung der juristischen Person diese wegen Steuerhinterziehung erstmals an und ist die Steuerhinterziehung keiner Steuerbehörde bekannt, wird von einer Strafverfolgung der juristischen Person, sämtlicher aktueller und ausgeschiedener Mitglieder der Organe und sämtlicher aktueller und ausgeschiedener Vertretungen abgesehen. Ihre Solidarhaftung entfällt.
 5 Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Absatz 1 auf einen Fünftel der hinterzogenen Steuer ermässigt.
 6 Nach Beendigung der Steuerpflicht einer juristischen Person in der Schweiz kann keine Selbstanzeige mehr eingereicht werden.
+1.7.2.3 Verfahren
