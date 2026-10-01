@@ -1,0 +1,4 @@
+# § 16a Förderbeiträge
+1 Im kantonalen Handelsregister eingetragenen Unternehmen mit tatsächlicher wirtschaftlicher Präsenz im Kanton Luzern, die ihr nachhaltiges Wirtschaften und eine verlässliche Buchführung nachweisen können, werden im Rahmen der verfügbaren Mittel Förderbeiträge für Tätigkeiten und Massnahmen im Bereich Forschung, Entwicklung und Innovation gewährt.
+2 Im Voranschlag eingestellte, nicht beanspruchte Mittel für Förderbeiträge werden auf das nächste Jahr übertragen. Eine Übertragung ist höchstens im Umfang des nicht ausgeschöpften Voranschlagskredites des Aufgabenbereichs möglich.
+3 Der Regierungsrat bestimmt in der Verordnung die förderberechtigten Tätigkeiten und Massnahmen. Dabei berücksichtigt er die kantonale Wirtschaftsstruktur sowie die nationale und internationale Wettbewerbssituation und deren Entwicklung.
