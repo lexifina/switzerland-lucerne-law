@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-lucerne-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (466 acts, 1352 versions) from the SRL Nr.",
+  "build": "Historical and current-text SRL records; included acts and version counts are listed in data/versions.json. Outstanding annex and illustration gaps are disclosed in README.",
   "language": "de",
   "sources": 1
 }
