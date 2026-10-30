@@ -1,0 +1,11 @@
+{
+  "path": "ch-lu",
+  "code": "CH-LU",
+  "name": "Lucerne",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-lucerne-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (466 acts, 1352 versions) from the SRL Nr.",
+  "language": "de",
+  "sources": 1
+}
