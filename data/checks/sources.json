@@ -1,0 +1,27 @@
+{
+ "sources": [
+  {
+   "id": "lexwork-lucerne",
+   "kind": "legislation",
+   "name": {
+    "en": "Lucerne: systematic collection (srl.lu.ch)",
+    "de": "Lucerne: Systematische Sammlung (srl.lu.ch)"
+   },
+   "url": "https://srl.lu.ch/",
+   "reads": {
+    "en": "the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once",
+    "de": "jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "switzerland/lucerne/acts"
+   ],
+   "interval": 1.0,
+   "repo": "switzerland-lucerne-law"
+  }
+ ]
+}
