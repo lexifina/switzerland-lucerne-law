@@ -1,36 +1,36 @@
 {
- "generated": "2026-11-24T12:13:37Z",
+ "generated": "2026-11-24T15:05:04Z",
  "latest": {
   "lexwork-lucerne|switzerland/lucerne/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 67,
-    "current": 464,
+    "current": 463,
     "gone": 0,
     "held": 466,
-    "not_at_source": 0,
+    "not_at_source": 34,
     "out_of_scope": 3,
-    "pending": 163,
+    "pending": 164,
     "repo": 466,
     "source_in_scope": 627
    },
-   "check_id": "ch-lexwork-lucerne-20261124T120903Z",
+   "check_id": "ch-lexwork-lucerne-20261124T144910Z",
    "commits": null,
    "corpus": "switzerland/lucerne/acts",
-   "error": "NameError: name 'resolved' is not defined",
-   "finished": "2026-11-24T12:13:33Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 4f783e84db051275d03eb0dc1ca5c809e74a709a timestamp 1795522418 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:57:48Z",
    "flags": [],
-   "gap": 165,
-   "note": "srl.lu.ch: index of 630 acts (630 in force); held 466; 161 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 67 held acts compared with the collection this check (every one within 7 days); 161 candidate acts read",
+   "gap": 164,
+   "note": "srl.lu.ch: index of 630 acts (630 in force); held 466; 161 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 67 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 253,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 500,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -197,15 +197,29 @@
      "992a"
     ],
     "changed": [
-     "25a",
-     "29a"
+     "201",
+     "204",
+     "314"
     ],
     "removed": []
    },
    "snapshot": "630 entries, 630 in force (srl.lu.ch)",
    "source": "lexwork-lucerne",
-   "started": "2026-11-24T12:09:03Z",
+   "started": "2026-11-24T14:49:10Z",
    "unexplained": 0,
+   "update": {
+    "left_for_next_check": 14,
+    "letters_check_dropped": {},
+    "new": 113,
+    "nothing_new": 1,
+    "parts": [
+     "95-watch-20261124-000-new.json",
+     "95-watch-20261124-001.json"
+    ],
+    "pdf_only": 34,
+    "re_read": 2,
+    "unreadable": 0
+   },
    "verify": null
   }
  },

@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Lucerne only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:13 UTC, Lucerne: systematic collection (srl.lu.ch): 253 addresses read; 161 added, 2 changed, 0 removed; the check failed; 165 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 14:57 UTC, Lucerne: systematic collection (srl.lu.ch): 500 addresses read; 161 added, 3 changed, 0 removed; the check failed; 164 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -18,6 +18,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:49](checks/2026-11.md#ch-lexwork-lucerne-20261124t144910z) | lexwork-lucerne | 500 | 161 | 3 | 0 | 164 (0) | the check failed | — |
 | [2026-11-24 12:09](checks/2026-11.md#ch-lexwork-lucerne-20261124t120903z) | lexwork-lucerne | 253 | 161 | 2 | 0 | 165 (0) | the check failed | — |
 
 ## Check it yourself
