@@ -1,15 +1,15 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": null,
+ "checked_against_official_source": "2026-11-25",
  "totals": {
-  "acts": 0,
+  "acts": 466,
   "by_status": {
-   "current": 0,
-   "pending-change": 0,
+   "current": 62,
+   "pending-change": 127,
    "stale": 0,
-   "unverified": 0,
+   "unverified": 277,
    "source-unavailable": 0
   }
  },
@@ -18,8 +18,8 @@
    "source": "lexwork-lucerne",
    "name": "Lucerne: systematic collection (srl.lu.ch)",
    "state": "available",
-   "last_successful_check": null,
-   "last_successful_contact": null
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   }
  ]
 }
