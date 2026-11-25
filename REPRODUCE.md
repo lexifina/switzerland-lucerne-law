@@ -1,6 +1,6 @@
 # How this repository was made (Lucerne)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -480,20 +480,144 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `981-gastgewerbeverordnung-gav` | Verordnung zum Gesetz über das Gastgewerbe, den Handel mit alkoholischen Getränken und die Fasnacht | 3 | 2014-01-01 to 2018-07-01 |
 | `993-kgsv` | Kantonale Geldspielverordnung | 3 | 2013-03-01 to 2022-11-01 |
 | `994-lotteriegelderverordnung` | Verordnung über die Verwendung der Reingewinne von Lotterien, Sportwetten und Geschicklichkeitsspielen | 2 | 2014-07-01 to 2020-07-01 |
+| `11` | Kantonsratsbeschluss über die Verteilung der Sitze auf die sechs Kantonsratswahlkreise | 4 | 2014-09-14 to 2026-10-20 |
+| `31-gokr` | Geschäftsordnung des Kantonsrates | 2 | 2015-06-01 to 2023-06-01 |
+| `35-gorr` | Geschäftsordnung des Regierungsrates | 4 | 2014-10-01 to 2025-05-01 |
+| `70` | Kantonsratsbeschluss über die Entschädigung der Mitglieder und der Fraktionen des Kantonsrates | 3 | 2009-07-01 to 2026-01-01 |
+| `72-bom` | Besoldungsordnung für die Magistratspersonen und den Staatsschreiber oder die Staatsschreiberin | 4 | 2013-06-01 to 2026-01-01 |
+| `73-bo` | Besoldungsordnung für das Staatspersonal | 2 | 2012-01-01 to 2024-03-01 |
+| `74-bol` | Besoldungsordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste | 3 | 2012-01-01 to 2022-08-01 |
+| `102` | Beschluss über die Entschädigung der Leiter der Gemeindestellen für die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung | 1 | 1985-01-01 to 1985-01-01 |
+| `103` | Beschluss über die Entschädigung der Gemeindestellen für die Krankenversicherung | 1 | 1969-01-01 to 1969-01-01 |
+| `130-magistratenpensionsordnung` | Grossratsbeschluss über die Pensionsordnung der Mitglieder der obersten Verwaltungs- und Gerichtsbehörden sowie des Staatsschreibers | 1 | 2014-01-01 to 2014-01-01 |
+| `172` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Baldegg in eine öffentlich-rechtliche Genossenschaft | 1 | 2016-12-18 to 2016-12-18 |
+| `172a` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Dagmersellen in eine öffentlich-rechtliche Genossenschaft | 1 | 2016-12-18 to 2016-12-18 |
+| `172b` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Dorf Zell in eine öffentlich-rechtliche Genossenschaft | 1 | 2016-12-18 to 2016-12-18 |
+| `172c` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Günikon in eine öffentlich-rechtliche Genossenschaft | 1 | 2016-12-18 to 2016-12-18 |
+| `172d` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Sigigen in eine öffentlich-rechtliche Genossenschaft | 1 | 2016-12-18 to 2016-12-18 |
+| `172e` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Oberebersol in eine öffentlich-rechtliche Genossenschaft | 1 | 2017-05-21 to 2017-05-21 |
+| `172f` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Mettmenschongau in eine öffentlich-rechtliche Genossenschaft | 1 | 2018-02-04 to 2018-02-04 |
+| `172g` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der 18er Realkorporation Wolhusen-Markt in eine öffentlich-rechtliche Genossenschaft | 1 | 2018-02-04 to 2018-02-04 |
+| `172h` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Ostergau in eine öffentlich-rechtliche Genossenschaft | 1 | 2018-05-20 to 2018-05-20 |
+| `172i` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Fischbach in eine öffentlich-rechtliche Genossenschaft | 1 | 2019-06-23 to 2019-06-23 |
+| `172j` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Personalkorporation Winikon in eine öffentlich-rechtliche Genossenschaft | 1 | 2019-12-08 to 2019-12-08 |
+| `172k` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Personalkorporation Etzelwil-Schlierbach-Wetzwil in eine öffentlich-rechtliche Genossenschaft | 1 | 2019-12-08 to 2019-12-08 |
+| `172l` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Personalkorporation Schachen in eine öffentlich-rechtliche Genossenschaft | 1 | 2019-12-08 to 2019-12-08 |
+| `172m` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Mehlsecken in eine öffentlich-rechtliche Genossenschaft | 1 | 2020-06-28 to 2020-06-28 |
+| `172n` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Retschwil in eine öffentlich-rechtliche Genossenschaft | 1 | 2022-12-11 to 2022-12-11 |
+| `172o` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Niederschongau in eine öffentlich-rechtliche Genossenschaft | 1 | 2022-12-11 to 2022-12-11 |
+| `172p` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Personalkorporation Greppen in eine öffentlich-rechtliche Genossenschaft | 1 | 2022-12-11 to 2022-12-11 |
+| `172q` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Geuensee in eine öffentlich-rechtliche Genossenschaft | 1 | 2022-12-11 to 2022-12-11 |
+| `172r` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Grossdietwil in eine öffentlich-rechtliche Genossenschaft | 1 | 2022-12-11 to 2022-12-11 |
+| `172s` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Lieli in eine öffentlich-rechtliche Genossenschaft | 1 | 2023-12-10 to 2023-12-10 |
+| `172t` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Personalkorporation Udligenswil in eine öffentlich-rechtliche Genossenschaft | 1 | 2023-12-10 to 2023-12-10 |
+| `172u` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Briseck in eine öffentlich-rechtliche Genossenschaft | 1 | 2024-12-08 to 2024-12-08 |
+| `172v` | Kantonsratsbeschluss über die Genehmigung der Umwandlung der Realkorporation Menznau in eine öffentlich-rechtliche Genossenschaft | 1 | 2024-12-08 to 2024-12-08 |
+| `173` | Kantonsratsbeschluss über die Genehmigung der Aufhebung der Realkorporation Hüswil | 1 | 2016-12-18 to 2016-12-18 |
+| `189` | Dekret über die Genehmigung der Verfassung der römisch-katholischen Landeskirche des Kantons Luzern | 1 | 1969-09-16 to 1969-09-16 |
+| `190` | Kantonsratsbeschluss über die Genehmigung der neuen Verfassung der Evangelisch-Reformierten Landeskirche des Kantons Luzern | 1 | 2016-09-18 to 2016-09-18 |
+| `195` | Dekret über die Genehmigung der Organisation der christkatholischen Kirchgemeinde Luzern vom 15. März 1953 | 1 | 1953-10-27 to 1953-10-27 |
+| `195a` | Dekret über die Genehmigung der Abänderung der Gemeindeordnung der christkatholischen Kirchgemeinde Luzern | 1 | 1971-07-01 to 1971-07-01 |
+| `202a` | Ausführungsbestimmungen der ZBSA betreffend die Aufsicht über die Stiftungen | 1 | 2022-07-01 to 2022-07-01 |
+| `219` | Beschluss über die Bezeichnung der Fremdenverkehrsorte im Sinn des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland | 2 | 2013-01-01 to 2020-01-01 |
+| `224` | Kantonsratsbeschluss über die Grundbuchkreise | 4 | 2015-06-01 to 2025-01-01 |
+| `261` | Kantonsratsbeschluss über die Sitze der Gerichte und Schlichtungsbehörden und die Einteilung des Kantons in Gerichtsbezirke | 4 | 2013-06-01 to 2025-01-01 |
+| `263-gokg` | Geschäftsordnung für das Kantonsgericht des Kantons Luzern | 5 | 2013-06-01 to 2026-06-01 |
+| `267` | Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Mitglieder des Kantonsgerichtes | 2 | 2013-06-01 to 2026-01-01 |
+| `276` | Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Staatsanwältinnen und -anwälte und der Jugendanwältinnen und -anwälte | 4 | 2013-01-01 to 2025-06-01 |
+| `291` | Vollziehungs-Beschluss zu den Artikeln 29, 36 und 37 des Bundesgesetzes über die Banken und Sparkassen vom 8. November 1934 | 1 | 2013-06-01 to 2013-06-01 |
+| `292a` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Beromünster und Gunzwil-Neudorf-Pfeffikon-Rickenbach zu einem Betreibungskreis | 1 | 2005-07-17 to 2005-07-17 |
+| `292c` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Neuenkirch, Sempach, Eich und Hildisrieden zu einem Betreibungskreis | 1 | 2003-05-18 to 2003-05-18 |
+| `293a` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Geuensee, Oberkirch und Schenkon zu einem Betreibungskreis | 1 | 2016-07-03 to 2016-07-03 |
+| `293b` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Schlierbach und Büron-Buttisholz-Grosswangen-Knutwil-Mauensee-Nottwil-Sursee-Triengen zu einem Betreibungskreis | 1 | 2016-09-11 to 2016-09-11 |
+| `294` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Vitznau und Weggis-Greppen zu einem Betreibungskreis | 1 | 2015-04-12 to 2015-04-12 |
+| `296` | Grossratsbeschluss über die Vereinigung der Betreibungskreise Adligenswil und Ebikon/Dierikon zu einem Betreibungskreis | 1 | 1993-01-01 to 1993-01-01 |
+| `296a` | Beschluss über die Vereinigung der Betreibungskreise Pfaffnau und Roggliswil zu einem Betreibungskreis | 1 | 1997-01-26 to 1997-01-26 |
+| `296e` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Ballwil und Buchrain-Inwil zu einem Betreibungskreis | 1 | 2019-12-29 to 2019-12-29 |
+| `297` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Gisikon-Honau-Root und Udligenswil-Meierskappel zu einem Betreibungskreis | 2 | 1997-04-20 to 2024-08-19 |
+| `297a` | Beschluss über die Genehmigung der Bildung der Betreibungskreise Hitzkirch, Hochdorf-Hohenrain-Römerswil und Aesch-Altwis-Ermensee-Schongau | 2 | 2008-06-22 to 2024-09-01 |
+| `297e` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Aesch-Ermensee-Schongau und Hitzkirch zu einem Betreibungskreis | 1 | 2024-09-01 to 2024-09-01 |
+| `298e` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Alberswil-Ettiswil, Altbüron-Fischbach-Grossdietwil, Gettnau-Hergiswil-Luthern-Willisau, Ufhusen und Zell zu einem Betreibungskreis | 1 | 2016-09-11 to 2016-09-11 |
+| `299` | Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Doppleschwand, Entlebuch, Escholzmatt-Marbach, Flühli, Hasle, Romoos und Schüpfheim zu einem Betreibungskreis | 1 | 2020-11-08 to 2020-11-08 |
+| `516-ph-statut` | Statut der Pädagogischen Hochschule Luzern | 4 | 2013-08-01 to 2026-06-01 |
+| `520a-zfhvo` | Zentralschweizer Fachhochschul-Verordnung | 3 | 2021-01-01 to 2026-04-01 |
+| `520b-fhz-statut` | Statut der Hochschule Luzern, FH Zentralschweiz | 6 | 2021-09-01 to 2026-04-01 |
+| `521` | Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz | 7 | 2022-01-01 to 2026-09-01 |
+| `522` | Studienordnung für die Weiterbildung an der Hochschule Luzern, FH Zentralschweiz | 2 | 2021-09-01 to 2025-02-01 |
+| `539c-universitatsstatut` | Statut der Universität Luzern | 13 | 2014-11-30 to 2025-12-01 |
+| `539f` | Habilitationsordnung der Universität Luzern | 2 | 2009-01-01 to 2023-12-01 |
+| `540b` | Studien- und Prüfungsordnung der Rechtswissenschaftlichen Fakultät der Universität Luzern | 3 | 2012-02-01 to 2024-08-01 |
+| `541a` | Studien- und Prüfungsordnung für die Diplom-, Bachelor- und Masterstudiengänge der Theologischen Fakultät der Universität Luzern | 4 | 2013-08-01 to 2026-08-01 |
+| `541d` | Promotionsordnung der Fakultät I für Römisch-katholische Theologie der Universität Luzern | 1 | 2009-01-01 to 2009-01-01 |
+| `541o` | Promotionsordnung der Theologischen Fakultät der Universität Luzern für ein Doktorat der Philosophie (Dr. phil.) in theologischen Studien | 1 | 2018-08-01 to 2018-08-01 |
+| `542a` | Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern | 10 | 2012-08-01 to 2025-08-01 |
+| `542c` | Promotionsordnung der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern und Prüfungsordnung der Graduate School of Humanities and Social Sciences at the University of Lucerne | 3 | 2012-08-01 to 2026-08-01 |
+| `542h` | Studien- und Prüfungsordnung für den Joint-Degree-Masterstudiengang Religion – Wirtschaft – Politik | 2 | 2009-09-01 to 2023-08-01 |
+| `542k` | Studien- und Prüfungsordnung für den «Zweisprachigen Master of Arts in Geschichte der Universitäten Luzern und Neuchâtel» | 1 | 2015-08-01 to 2015-08-01 |
+| `542p` | Studien- und Prüfungsordnung für den Dual-Degree-Masterstudiengang «Master of Arts in Politikwissenschaft» | 1 | 2018-08-01 to 2018-08-01 |
+| `543` | Dekret über die Durchführung des klinischen Unterrichts am Kantonsspital Luzern | 1 | 1973-09-09 to 1973-09-09 |
+| `543a-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2022-01-01 to 2022-01-01 |
+| `545a` | Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern | 8 | 2016-08-01 to 2024-12-01 |
+| `545b` | Promotionsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern | 1 | 2016-10-01 to 2016-10-01 |
+| `546b` | Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge in Gesundheitswissenschaften an der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern | 3 | 2019-08-01 to 2024-02-01 |
+| `546c` | Studien- und Prüfungsordnung für den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» an der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern und an der Medizinischen Fakultät der Universität Zürich | 2 | 2020-02-01 to 2023-05-01 |
+| `546f` | Promotionsordnung der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern für das Doktorat in Gesundheitswissenschaften (Dr. sc.) | 2 | 2020-08-01 to 2023-05-01 |
+| `546g` | Promotionsordnung der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern für das Doktorat in Humanmedizin (Dr. med.) | 3 | 2022-02-01 to 2024-08-01 |
+| `547a` | Studien- und Prüfungsordnung der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern | 2 | 2023-09-01 to 2024-08-01 |
+| `547b` | Promotionsordnung der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern | 1 | 2024-05-01 to 2024-05-01 |
+| `671` | Beschluss über die Zuständigkeiten nach dem Gesetz über die Gewinnung von Bodenschätzen und die Nutzung des Untergrunds | 1 | 2014-01-01 to 2014-01-01 |
+| `681` | Gebührentarif und Kostenverordnung für die Staatsverwaltung | 5 | 2014-07-01 to 2025-06-01 |
+| `710-nlv` | Natur- und Landschaftsschutzverordnung | 4 | 2014-01-01 to 2020-10-01 |
+| `722a` | Übereinkunft über den Fischfang im Hallwilersee | 1 | 2022-01-01 to 2022-01-01 |
+| `723a` | Ausführungsbestimmungen zum Konkordat über die Fischerei im Zugersee | 1 | 2015-06-13 to 2015-06-13 |
+| `724b` | Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee | 2 | 2017-06-01 to 2023-09-01 |
+| `731` | Beschluss über die Zuständigkeit für Entschädigungen aus vorbereitenden Enteignungshandlungen | 1 | 2015-06-01 to 2015-06-01 |
+| `733b-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2023-01-01 to 2023-01-01 |
+| `733c-egivob` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2023-01-01 to 2023-01-01 |
+| `736-pbv` | Planungs- und Bauverordnung | 14 | 2014-01-01 to 2026-07-01 |
+| `736a` | Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht | 52 | 2017-07-04 to 2026-11-17 |
+| `739a` | Beschluss über die Zuständigkeit zur Erteilung von Reklamebewilligungen | 1 | 2008-01-01 to 2008-01-01 |
+| `757` | Kantonsratsbeschluss über die Einreihung der Kantonsstrassen | 2 | 1999-01-01 to 2018-01-01 |
+| `762` | Dekret über einen Staatsbeitrag an die Kosten der Korrektion der Luthern und der Wigger mit ihren Zuflüssen | 1 | 1974-09-22 to 1974-09-22 |
+| `768` | Beschluss über Sicherheitsmassnahmen auf zugefrorenen Seen | 1 | 2007-01-01 to 2007-01-01 |
+| `771-wnvv` | Wassernutzungs- und Wasserversorgungsverordnung | 2 | 2013-07-01 to 2025-01-01 |
+| `772a` | Beschluss über die Zuständigkeiten nach dem Kantonalen Stromversorgungsgesetz | 1 | 2012-06-01 to 2012-06-01 |
+| `774a` | Interkantonale Vereinbarung über den Vollzug der Privaten Kontrolle im Energiebereich | 1 | 2006-01-01 to 2006-01-01 |
+| `774b` | Zusatzvereinbarung zur Interkantonalen Vereinbarung über den Vollzug der Privaten Kontrolle im Energiebereich | 1 | 2013-01-01 to 2013-01-01 |
+| `800g` | Beschluss über den kantonalen Anteil an der Abgeltung der stationären Leistungen von Spitälern und Geburtshäusern ab dem Jahr 2019 | 1 | 2019-01-01 to 2019-01-01 |
+| `800h-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `804` | Beschluss über den Betreiber des kantonalen Krebsregisters | 1 | 2010-06-01 to 2010-06-01 |
+| `853b` | Beschluss über die Allgemeinverbindlicherklärung des Gesamtarbeitsvertrages für die Tankstellenshops des Kantons Luzern | 1 | 2015-09-01 to 2015-09-01 |
+| `854` | Normalarbeitsvertrag für das hauswirtschaftliche Arbeitsverhältnis | 2 | 2013-01-01 to 2020-12-01 |
+| `854a` | Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis | 2 | 2007-01-01 to 2023-01-01 |
+| `854b-nav-kita` | Normalarbeitsvertrag für Arbeitnehmende im Vorpraktikum in privaten Kindertagesstätten | 1 | 2024-07-01 to 2024-07-01 |
+| `867g` | Beschluss über den kantonalen Anteil an der Vergütung der Kosten der Akut- und Übergangspflege ab dem Jahr 2019 | 1 | 2019-01-01 to 2019-01-01 |
+| `872` | Kantonaler Rahmentarif der ärztlichen Leistungen in der Krankenpflegeversicherung | 1 | 1990-12-01 to 1990-12-01 |
+| `873` | Kantonaler Rahmentarif der ärztlichen Leistungen für die Schweizerische Unfallversicherungsanstalt | 1 | 1975-07-01 to 1975-07-01 |
+| `875` | Ausführungsbestimmungen der ZBSA über die berufliche Vorsorge | 1 | 2022-07-01 to 2022-07-01 |
+| `897m` | Dekret über Massnahmen zur Wohnbau- und Eigentumsförderung | 1 | 1984-02-02 to 1984-02-02 |
+| `897n` | Dekret über die Bewilligung finanzieller Mittel zur Wohnbau- und Eigentumsförderung | 1 | 1986-08-31 to 1986-08-31 |
+| `897o` | Dekret über die Bewilligung finanzieller Mittel zur Wohnbau- und Eigentumsförderung | 1 | 1989-11-19 to 1989-11-19 |
+| `897p` | Dekret über die Bewilligung finanzieller Mittel zur Wohnbau- und Eigentumsförderung | 1 | 1991-06-09 to 1991-06-09 |
+| `897q` | Dekret über die Bewilligung finanzieller Mittel zur Wohnbau- und Eigentumsförderung | 1 | 1993-01-10 to 1993-01-10 |
+| `899` | Beschluss über die Formularpflicht im Mietrecht | 1 | 2021-11-01 to 2021-11-01 |
+| `913` | Dekret über bäuerliche Hilfsmassnahmen | 1 | 1957-12-20 to 1957-12-20 |
 
-The build made 1135 commits:
+The build made 1431 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 466 | first version of an act |
-| 669 | one law on its in-force day |
+| 308 | baseline texts where the record starts |
+| 1123 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 7 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1814 laws in the record.
-- 2177 tags.
+- 7 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 6 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 2144 laws in the record.
+- 2723 tags.
 
 ## Dates
 
@@ -505,13 +629,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3b4f597571dcb8cb1aa5e695c209a81be77b2437bfcd5721d39fd7eaf48a3f09` (13054263 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `23df98d27ee8841b46ce6a8d859a41f4d2b4f0a4d4ca5a263db92acb1b49f170` (15425171 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1352 versions of 466 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -525,7 +649,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

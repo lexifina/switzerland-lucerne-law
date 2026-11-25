@@ -1,11 +1,11 @@
 {
-  "path": "ch-lu",
-  "code": "CH-LU",
-  "name": "Lucerne",
-  "level": "canton",
-  "parent": "ch",
-  "repo": "https://github.com/lexifina/switzerland-lucerne-law",
-  "build": "Historical and current-text SRL records; included acts and version counts are listed in data/versions.json. Outstanding annex and illustration gaps are disclosed in README.",
-  "language": "de",
-  "sources": 1
+ "path": "switzerland/lucerne",
+ "code": "CH-LU",
+ "name": "Lucerne",
+ "level": "canton",
+ "parent": "switzerland",
+ "repo": "https://github.com/lexifina/switzerland-lucerne-law",
+ "build": "Historical and current-text SRL records; included acts and version counts are listed in data/versions.json. Outstanding annex and illustration gaps are disclosed in README.",
+ "language": "de",
+ "sources": 1
 }
