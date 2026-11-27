@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Lucerne: Systematische Sammlung (srl.lu.ch) · `switzerland/lucerne/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 06:33 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 06:33 UTC**.
 - Vorschriften hier: 588; aktuell gegenüber der Quelle: 588; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 84 der 588 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 44 (hier vorhanden, an der Quelle nicht mehr: 39, tritt später in Kraft: 5); ohne Grund: 0.
+- Nicht veröffentlicht: 39 (hier vorhanden, an der Quelle nicht mehr: 39); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:00Z",
+ "generated": "2026-11-27T07:13:04Z",
  "latest": {
   "lexwork-lucerne|switzerland/lucerne/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 588,
     "source_in_scope": 588
    },
-   "check_id": "ch-lexwork-lucerne-20261126T063135Z",
+   "check_id": "ch-lexwork-lucerne-20261127T062833Z",
    "commits": null,
    "corpus": "switzerland/lucerne/acts",
    "error": null,
-   "finished": "2026-11-26T06:33:36Z",
+   "finished": "2026-11-27T06:33:44Z",
    "flags": [],
-   "gap": 44,
+   "gap": 39,
    "note": "srl.lu.ch: index of 630 acts (630 in force); held 588; 0 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 39 published only as PDF; 84 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 98,
+   "requests": 300,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "630 entries, 630 in force (srl.lu.ch)",
    "source": "lexwork-lucerne",
-   "started": "2026-11-26T06:31:35Z",
+   "started": "2026-11-27T06:28:33Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 84,
-    "versions_checked": 235,
+    "versions_checked": 233,
     "versions_differ": 0
    }
   }
