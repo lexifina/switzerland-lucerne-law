@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Lucerne: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 06:33 UTC, Lucerne: Systematische Sammlung (srl.lu.ch): 300 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 39 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 06:25 UTC, Lucerne: Systematische Sammlung (srl.lu.ch): 343 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 40 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Lucerne: Systematische Sammlung (srl.lu.ch)](https://srl.lu.ch/) | `<act>/` | täglich | 2026-11-27 06:33 UTC | keine Änderung | beobachtet |
+| [Lucerne: Systematische Sammlung (srl.lu.ch)](https://srl.lu.ch/) | `<act>/` | täglich | 2026-11-28 06:25 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:19](checks/2026-11.md#ch-lexwork-lucerne-20261128t061939z) | lexwork-lucerne | 343 | 0 | 1 | 0 | 40 (0) | Änderungen gefunden | [2](https://github.com/lexifina/switzerland-lucerne-law/compare/e8bffed5715f...856067043167) |
 | [2026-11-27 06:28](checks/2026-11.md#ch-lexwork-lucerne-20261127t062833z) | lexwork-lucerne | 300 | 0 | 0 | 0 | 39 (0) | keine Änderung | — |
 | [2026-11-26 06:31](checks/2026-11.md#ch-lexwork-lucerne-20261126t063135z) | lexwork-lucerne | 98 | 0 | 0 | 0 | 44 (0) | keine Änderung | — |
 | [2026-11-25 07:03](checks/2026-11.md#ch-lexwork-lucerne-20261125t070306z) | lexwork-lucerne | 447 | 127 | 0 | 0 | 44 (0) | Änderungen gefunden | [297](https://github.com/lexifina/switzerland-lucerne-law/compare/2438dbf24230...922d7128acdc) |

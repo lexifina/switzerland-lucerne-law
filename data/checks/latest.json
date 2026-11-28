@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:13:04Z",
+ "generated": "2026-11-28T08:35:26Z",
  "latest": {
   "lexwork-lucerne|switzerland/lucerne/acts": {
    "attempt": 1,
@@ -14,49 +14,67 @@
    },
    "census": {
     "checked": 84,
-    "current": 588,
+    "current": 587,
     "gone": 0,
     "held": 588,
     "not_at_source": 39,
     "out_of_scope": 3,
-    "pending": 0,
+    "pending": 1,
     "repo": 588,
     "source_in_scope": 588
    },
-   "check_id": "ch-lexwork-lucerne-20261127T062833Z",
-   "commits": null,
+   "check_id": "ch-lexwork-lucerne-20261128T061939Z",
+   "commits": {
+    "count": 2,
+    "from": "e8bffed5715f8c98cca2ee14d8a279a317955fb5",
+    "to": "856067043167dfdbf9d5a81ff9e26eac7aa7fea8"
+   },
    "corpus": "switzerland/lucerne/acts",
    "error": null,
-   "finished": "2026-11-27T06:33:44Z",
+   "finished": "2026-11-28T06:25:56Z",
    "flags": [],
-   "gap": 39,
+   "gap": 40,
    "note": "srl.lu.ch: index of 630 acts (630 in force); held 588; 0 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 39 published only as PDF; 84 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "no-change",
+   "outcome": "changed",
    "published": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "736a"
+    ],
     "removed": []
    },
-   "requests": 300,
+   "requests": 343,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "736a"
+    ],
     "removed": []
    },
    "snapshot": "630 entries, 630 in force (srl.lu.ch)",
    "source": "lexwork-lucerne",
-   "started": "2026-11-27T06:28:33Z",
+   "started": "2026-11-28T06:19:39Z",
    "unexplained": 0,
    "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "736a"
+     ],
+     "new_acts": []
+    },
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
     "nothing_new": 0,
-    "parts": [],
+    "parts": [
+     "95-watch-20261128-001.json"
+    ],
     "pdf_only": 0,
-    "re_read": 0,
+    "re_read": 1,
     "unreadable": 0
    },
    "verify": {
@@ -68,7 +86,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 84,
-    "versions_checked": 233,
+    "versions_checked": 251,
     "versions_differ": 0
    }
   }
