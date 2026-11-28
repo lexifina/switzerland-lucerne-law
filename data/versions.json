@@ -19005,12 +19005,21 @@
     },
     {
      "from": "2026-11-17",
+     "to": "2026-11-23",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://srl.lu.ch/api/de/texts_of_law/736a/versions/4941",
+     "sha256": "003eb765fae07c18f9b231753072ab47b9af1cf5081ebca666a657c1d255290b"
+    },
+    {
+     "from": "2026-11-24",
      "to": null,
      "status": "in force",
      "text_as_of": null,
      "units": 2,
      "source_url": "https://srl.lu.ch/api/de/texts_of_law/736a",
-     "sha256": "e2a0b0147cb3d2f63a6f2b1cf5326c802d94b4d5492eeedbcb52433294ec6248"
+     "sha256": "fd8842e03ef4762956923f51fd149eefbbe8ac17fd24268e189bef057a6c3eeb"
     }
    ]
   },

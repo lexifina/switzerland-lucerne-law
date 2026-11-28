@@ -647,6 +647,12 @@
     "913"
    ],
    "sha256": "7c453325c31a0aaee21ddb74278e0881f171a6e49ca8fd35935d81092aba9772"
+  },
+  "95-watch-20261128-001.json": {
+   "acts": [
+    "736a"
+   ],
+   "sha256": "c526f282ca6ed2e388f151ad933ec2ccd2fdbe12c7f0b2149db3f2a19cc9f04e"
   }
  },
  "schema": 1

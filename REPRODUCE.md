@@ -1,6 +1,6 @@
 # How this repository was made (Lucerne)
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-28, the day the source data was retrieved.
 
 ## Sources
 
@@ -575,7 +575,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `733b-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2023-01-01 to 2023-01-01 |
 | `733c-egivob` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2023-01-01 to 2023-01-01 |
 | `736-pbv` | Planungs- und Bauverordnung | 14 | 2014-01-01 to 2026-07-01 |
-| `736a` | Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht | 52 | 2017-07-04 to 2026-11-17 |
+| `736a` | Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht | 53 | 2017-07-04 to 2026-11-24 |
 | `739a` | Beschluss über die Zuständigkeit zur Erteilung von Reklamebewilligungen | 1 | 2008-01-01 to 2008-01-01 |
 | `757` | Kantonsratsbeschluss über die Einreihung der Kantonsstrassen | 2 | 1999-01-01 to 2018-01-01 |
 | `762` | Dekret über einen Staatsbeitrag an die Kosten der Korrektion der Luthern und der Wigger mit ihren Zuflüssen | 1 | 1974-09-22 to 1974-09-22 |
@@ -603,21 +603,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `899` | Beschluss über die Formularpflicht im Mietrecht | 1 | 2021-11-01 to 2021-11-01 |
 | `913` | Dekret über bäuerliche Hilfsmassnahmen | 1 | 1957-12-20 to 1957-12-20 |
 
-The build made 1431 commits:
+The build made 1432 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 308 | baseline texts where the record starts |
-| 1123 | named laws, court decisions and treaties |
+| 1124 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 7 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 7 commits on the branch `zukunft`: laws not yet in force on 2026-11-28.
 - 6 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2144 laws in the record.
-- 2723 tags.
+- 2145 laws in the record.
+- 2725 tags.
 
 ## Dates
 
@@ -629,7 +629,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `23df98d27ee8841b46ce6a8d859a41f4d2b4f0a4d4ca5a263db92acb1b49f170` (15425171 bytes).
+- Corpus: sha256 `5f24db9ebe0c453dcac93478c5b1d7909aa0647765d76378f80efb917c68ebcf` (15551950 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
